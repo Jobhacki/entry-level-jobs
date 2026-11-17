@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>23,505</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-17</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>23,473</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-17</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-17 10:16 UTC</sub>
+<sub>Snapshot 2026-11-17 12:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,12 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**23,505 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-17 10:16 UTC.** Apply links go to the employer's career page or hiring system.
+**23,473 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-17 12:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| DoW SkillBridge Operations SME Intern | Research Innovations | Remote |  | 2026-11-17 | [Apply](https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e) |
 | Junior Broker - U.S. Inflation | tp | New York |  | 2026-11-17 | [Apply](https://tp.wd107.myworkdayjobs.com/en-US/tp-icap/job/New-York/Junior-Broker---US-Inflation_R5375) |
 | Trainee - R&D | piramalpharma | Ennore, TN |  | 2026-11-17 | [Apply](https://piramalpharma.wd102.myworkdayjobs.com/en-US/piramal_external_careers/job/Ennore-TN/Trainee---R-D_R00004281) |
 | Pharmacy Pre-Grad Intern - WM | Walmart | (USA) IN PLAINFIELD 06470 NEIGHBORHOOD MARKET |  | 2026-11-17 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IN-PLAINFIELD-06470-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2554207) |
@@ -71,6 +72,16 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Supply Chain Internship (Summer 2027) | american-housing | Austin |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/american-housing/f621171f-158b-437e-afa8-2f9e61413bea) |
 | Architecture Internship (Summer 2027) | american-housing | Austin |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/american-housing/951b27c0-38ce-42aa-8cd1-ca7c1db4c0c4) |
 | Manufacturing Engineering Internship (Summer 2027) | american-housing | Austin |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/american-housing/426e2483-9173-4ce5-93b5-298251fce66d) |
+| Emergency and Critical Care Internship | Cape Cod Veterinary Specialists | Buzzards Bay, MA, US |  | 2026-11-16 | [Apply](https://jobs.jobvite.com/veterinaryemergencysarasota/job/oxB6Afwy) |
+| Executive Administrative Intern | Morgan 6 | Charleston |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4634401) |
+| Junior Support Engineer | Partner One Software Inc | Riverside, California, US |  | 2026-11-16 | [Apply](https://apply.workable.com/j/2BEC1D705C) |
+| Entry Level Advisory Development Program - Full-Time Analyst- NAELFY27 | accenture |  |  | 2026-11-16 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/IL---Chicago/Entry-Level-Advisory-Development-Program---Full-Time-Analyst--NAELFY27_R00372645) |
+| Jr. Forward Deployed Software Engineer - (VA) | crosscountry-consulting | McLean, VA |  | 2026-11-16 | [Apply](https://jobs.lever.co/crosscountry-consulting/80bd96d8-b824-40ef-9cfe-01860583c4fe) |
+| Jr. Forward Deployed Software Engineer - (GA) | crosscountry-consulting | Georgia |  | 2026-11-16 | [Apply](https://jobs.lever.co/crosscountry-consulting/dc96666d-77b0-4bc8-b209-a0b9250324a0) |
+| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | West Valley City, Utah |  | 2026-11-16 | [Apply](https://jobs.lever.co/aogarciaagency/c90cbe9b-d45a-4296-a8b4-1e03401d73d8) |
+| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Brewer, Maine |  | 2026-11-16 | [Apply](https://jobs.lever.co/aogarciaagency/9c326931-a5c1-4895-8db5-52c0439a0f25) |
+| Remote - Client Relations Manager Trainee | Aogarciaagency | Hagerstown, Maryland |  | 2026-11-16 | [Apply](https://jobs.lever.co/aogarciaagency/eeb3d5df-80f0-41a4-83f8-140cd162f910) |
+| 2027 Summer Internship (MBA) - Product | duetti | New York, NY |  | 2026-11-16 | [Apply](https://jobs.lever.co/duetti/cbc1ad6f-ec3d-42d8-8a53-9cd2712787b2) |
 | 2027 Intern - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD | Textron | Hunt Valley, MD, US |  | 2026-11-16 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342956&lang=en) |
 | Executive Office Small Business Initiative (SBI) Research Intern – Spring 2027 | Commonwealth of Massachusetts | Boston, MA, US |  | 2026-11-16 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260007ZS&lang=en) |
 | Product Line Intern - Business & General Aviation | AAR | Chicago, IL, US |  | 2026-11-16 | [Apply](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18992&lang=en) |
@@ -99,7 +110,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Test Engineering intern - PhD | Texas Instruments | United States |  | 2026-11-16 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019537) |
 | Kilby Labs RF Analog Design Intern - RF Modeling | Texas Instruments | Dallas, TX, United States |  | 2026-11-16 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016351) |
 | Climate Adaptation Intern | Arcadis | New York, NY, United States |  | 2026-11-16 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45656) |
-| Junior Building Custodian | ADP employer 77a3f191 | Brooklyn, NY, US |  | 2026-11-16 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=77a3f191-1937-4bb8-a774-2d8fdd9059dd&ccId=19000101_000001&jobId=573710&lang=en_US&source=CC2) |
 | Entry Level Supervisor | cecentertainment | 7409 S Cass Ave, Darien, IL |  | 2026-11-16 | [Apply](https://cecentertainment.wd5.myworkdayjobs.com/en-US/cec_careers/job/7409-S-Cass-Ave-Darien-IL/Entry-Level-Supervisor_R137616) |
 | Information Security Intern | swib | Madison Wisconsin |  | 2026-11-16 | [Apply](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Information-Security-Intern_R-001332) |
 | Apprentice | hbglobal | Mechanicsburg, PA |  | 2026-11-16 | [Apply](https://hbglobal.wd108.myworkdayjobs.com/en-US/bbecelectric/job/Mechanicsburg-PA/Apprentice_JR100788) |
@@ -180,9 +190,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Software Engineering Intern (Medical Device & Healthcare Integration) | analogdevices | US, MA, Wilmington |  | 2026-11-16 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-MA-Wilmington/Software-Engineering-Intern--Medical-Device---Healthcare-Integration-_R269165) |
 | Embedded Hardware & Firmware Intern (Health Solutions) | analogdevices | US, MA, Wilmington |  | 2026-11-16 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-MA-Wilmington/Embedded-Hardware---Firmware-Intern--Health-Solutions-_R269166) |
 | Weld Trainee | cat | South Milwaukee, Wisconsin |  | 2026-11-16 | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/South-Milwaukee-Wisconsin/Weld-Trainee_R0000390946) |
-| Next Generation Air Dominance Assembly Industrial Engineer – Entry Level/Associ... | boeing | USA - Berkeley, MO |  | 2026-11-16 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Next-Generation-Air-Dominance-Assembly-Industrial-Engineer---Entry-Level-Associate_JR2026527732) |
-| Next Generation Air Dominance Composite Industrial Engineer – Entry level/ Asso... | boeing | USA - Berkeley, MO |  | 2026-11-16 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Next-Generation-Air-Dominance-Composite-Industrial-Engineer---Entry-level--Associate_JR2026527730) |
-| Next Generation Air Dominance Composite Manufacturing Engineer – Entry Level/As... | boeing | USA - Berkeley, MO |  | 2026-11-16 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Next-Generation-Air-Dominance-Composite-Manufacturing-Engineer---Entry-Level-Associate_JR2026527723) |
 | Meat Cutter Apprentice Part Time | bjswholesaleclub | Bel Air, MD #0071 |  | 2026-11-16 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/en-US/bjscareers/job/Bel-Air-MD-0071/Meat-Cutter-Apprentice-Part-Time_R261817-1) |
 | Undergrad Intern – R&D Execution, Operations & Strategy (Summer 2027) | amgen | United States - Remote |  | 2026-11-16 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---R-D-Execution--Operations---Strategy--Summer-2027-_R-259964) |
 | Cell Therapy, Plan to Deliver Process Intern | astrazeneca | US – Tarzana – CA |  | 2026-11-16 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US--Tarzana--CA/Cell-Therapy--Plan-to-Deliver-Process-Intern_R-263847) |
@@ -198,13 +205,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Service Shop Entry Technician - Grove City, OH | Walmart | (USA) OH GROVE CITY 06724 MAINTENANCE TRUCKING |  | 2026-11-16 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OH-GROVE-CITY-06724-MAINTENANCE-TRUCKING/Service-Shop-Entry-Technician---Grove-City--OH_R-2711222) |
 | Finance Pathways Rotation Analyst (Early Career) | Salesforce | Indiana - Indianapolis |  | 2026-11-16 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Finance-Pathways-Rotation-Analyst--Early-Career-_JR359637-1) |
 | Product Marketing Manager MBA Intern, Digital Health AI - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-16 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Manager-MBA-Intern--Digital-Health-AI---Summer-2027_JR2029509) |
-| Enterprise Sales Intern - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-16 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Sales-Intern---Summer-2027_JR2029682) |
-| Applied Research Scientist Intern, Agentic Biology - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-16 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307) |
-| Nursing Assistant Trainee - Part Time | Sanford Health | MN, Westbrook |  | 2026-11-16 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/MN-Westbrook/Nursing-Assistant-Trainee---Part-Time_R-0279627) |
-| Pharmacy Technician - Pre-Pharmacy Intern | Sanford Health | SD, Sioux Falls |  | 2026-11-16 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/SD-Sioux-Falls/Pharmacy-Technician---Pre-Pharmacy-Intern_R-0260653) |
-| Pharmacy Intern | Sanford Health | SD, Sioux Falls |  | 2026-11-16 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/SD-Sioux-Falls/Pharmacy-Intern_R-0276444) |
-| Legal Intern | Travelers | MI - Troy |  | 2026-11-16 | [Apply](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/MI---Troy/Legal-Intern_R-53770-1) |
-| Pharmacy Intern | CVS Health | OH - Hinckley |  | 2026-11-16 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Hinckley/Pharmacy-Intern_R1105142) |
 <!-- JOBS_TABLE_END -->
 
 <details>
