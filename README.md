@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>24,035</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-18</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>23,851</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-18</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-18 00:18 UTC</sub>
+<sub>Snapshot 2026-11-18 04:17 UTC</sub>
 
 </div>
 
@@ -50,17 +50,23 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**24,035 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-18 00:18 UTC.** Apply links go to the employer's career page or hiring system.
+**23,851 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-18 04:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Hatchery Entry Level - Egg Side | ADP employer bc043f0c | Fredericksburg, PA, US |  | 2026-11-18 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bc043f0c-d219-42e0-b26f-21659ab74e5f&ccId=19000101_000001&jobId=579756&lang=en_US&source=CC2) |
-| Summer 2027 Internship - Food Safety Quality Assurance Systems | ADP employer bc043f0c | Fredericksburg, PA, US |  | 2026-11-18 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bc043f0c-d219-42e0-b26f-21659ab74e5f&ccId=19000101_000001&jobId=579757&lang=en_US&source=CC2) |
-| Summer 2027 Internship - Animal Welfare | ADP employer bc043f0c | Fredericksburg, PA, US |  | 2026-11-18 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bc043f0c-d219-42e0-b26f-21659ab74e5f&ccId=19000101_000001&jobId=579758&lang=en_US&source=CC2) |
+| Auto Glass Installation Technician Trainee | belron | PARIS, TN |  | 2026-11-18 | [Apply](https://belron.wd3.myworkdayjobs.com/en-US/safelite_careers/job/PARIS-TN/Auto-Glass-Installation-Technician-Trainee_JR76562) |
+| New Graduate Nurse | freseniusmedicalcare | Rocky Mount, NC |  | 2026-11-18 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Rocky-Mount-NC/New-Graduate-Nurse_R0278458) |
+| Foreign Pharmacy Grad - International Pharmacy Intern | CVS Health | MA - Springfield |  | 2026-11-18 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Springfield/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1108308) |
+| Foreign Pharmacy Grad - International Pharmacy Intern | CVS Health | MA - North Andover |  | 2026-11-18 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---North-Andover/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1108311) |
+| Foreign Pharmacy Grad - International Pharmacy Intern | CVS Health | MA - Tewksbury |  | 2026-11-18 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Tewksbury/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1108318) |
+| Mechanical Engineering Intern | VeoliaEnvironnementSA | Boulder, CO, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190929) |
+| Back Office Sales Support Intern | VeoliaEnvironnementSA | Woodridge, IL, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190939) |
+| EI&C Co-op | VeoliaEnvironnementSA | Bellevue, WA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190999) |
+| Delivery Driver(05757) - 3349 MLK Jr Dr Atlanta | Domino's | Atlanta, GA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000162202724) |
+| Robot Learning Research Intern | Bosch Group | Pittsburgh, PA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162212029) |
 | Entry-Level Modeling & Simulation Software Engineer | starfish | Huntsville, AL |  | 2026-11-18 | [Apply](https://starfish.wd501.myworkdayjobs.com/en-US/careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1) |
 | Junior-Level Modeling & Simulation Software Engineer | starfish | Huntsville, AL |  | 2026-11-18 | [Apply](https://starfish.wd501.myworkdayjobs.com/en-US/careers/job/Huntsville-AL/Junior-Level-Modeling---Simulation-Software-Engineer_R2207) |
-| Boiler Operator Trainee - 2nd Shift - Columbus Plant | abbott | United States - Ohio - Columbus |  | 2026-11-18 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Ohio---Columbus/Boiler-Operator-Trainee---2nd-Shift---Columbus-Plant_31167826) |
 | Pharmacy Undergraduate Summer Intern | centene | Remote-MO |  | 2026-11-18 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Pharmacy-Undergraduate-Summer-Intern_1667782) |
 | Managed Care Pharmacy Undergraduate Summer Intern | centene | Remote-MO |  | 2026-11-18 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Managed-Care-Pharmacy-Undergraduate-Summer-Intern_1667804) |
 | Manager Trainee | towerloan | Starkville MS |  | 2026-11-18 | [Apply](https://towerloan.wd12.myworkdayjobs.com/en-US/tower_loan_careers/job/Starkville-MS/Manager-Trainee_JR2421-1) |
@@ -81,7 +87,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Internship - Field Service Engineer | asml | Albany, NY, USA |  | 2026-11-18 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Albany-NY-USA/Internship---Field-Service-Engineer_J-00357527) |
 | Auto Glass Installation Technician Trainee | belron | APPLETON, WI |  | 2026-11-18 | [Apply](https://belron.wd3.myworkdayjobs.com/en-US/safelite_careers/job/APPLETON-WI/Auto-Glass-Installation-Technician-Trainee_JR76490) |
 | Auto Glass Installation Technician Trainee | belron | ALTON, IL |  | 2026-11-18 | [Apply](https://belron.wd3.myworkdayjobs.com/en-US/safelite_careers/job/ALTON-IL/Auto-Glass-Installation-Technician-Trainee_JR76488-1) |
-| Auto Glass Installation Technician Trainee | belron | FOND DU LAC, WI |  | 2026-11-18 | [Apply](https://belron.wd3.myworkdayjobs.com/en-US/safelite_careers/job/FOND-DU-LAC-WI/Auto-Glass-Installation-Technician-Trainee_JR76494) |
 | Product Development Engineering Intern | amcor | RPSNA Lawrence KS |  | 2026-11-18 | [Apply](https://amcor.wd5.myworkdayjobs.com/en-US/amcor_external_career_site/job/RPSNA-Lawrence-KS/Product-Development-Engineering-Intern_REQ_98748-1) |
 | Analog Design Engineering Intern - Summer 2027 | analogdevices | US, TX, Dallas, Tollway |  | 2026-11-18 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-TX-Dallas-Tollway/Analog-Design-Engineering-Intern---Summer-2027_R268074) |
 | Research Science Engineering Intern - Summer 2027 | analogdevices | US, MA, Wilmington |  | 2026-11-18 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-MA-Wilmington/Research-Science-Engineering-Intern---Summer-2027_R268072) |
@@ -90,7 +95,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Software Developer (New or Recent Graduate) | bmo | Berkeley Heights, NJ, USA |  | 2026-11-18 | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Berkeley-Heights-NJ-USA/Software-Developer_R260023733) |
 | Oncology Regulatory Affairs Intern | astrazeneca | US - Gaithersburg - MD |  | 2026-11-18 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Gaithersburg---MD/Oncology-Regulatory-Affairs-Intern_R-264547) |
 | Global Medical Affairs Intern | astrazeneca | US - Gaithersburg - MD |  | 2026-11-18 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Gaithersburg---MD/Global-Medical-Affairs-Intern_R-264551) |
-| New Grad RN Resource Pool | imh | Intermountain Health Utah Valley Hospital |  | 2026-11-18 | [Apply](https://imh.wd108.myworkdayjobs.com/en-US/intermountaincareers/job/Intermountain-Health-Utah-Valley-Hospital/New-Grad-RN-Resource-Pool_R184932) |
 | Dental Assistant - Entry Level | aspendental | Albany, New York |  | 2026-11-18 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Albany-New-York/Dental-Assistant---Entry-Level_R2026-014253) |
 | University - 2027 Summer Games Data Scientist Intern - McLean, VA | bah | McLean, VA |  | 2026-11-18 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0253697) |
 | University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach | bah | Fort Walton Beach, FL |  | 2026-11-18 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach_R0253698) |
@@ -99,19 +103,23 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Service Shop Entry Technician - Hope Mills, NC | Walmart | (USA) NC HOPE MILLS 06740 MAINTENANCE TRUCKING |  | 2026-11-18 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NC-HOPE-MILLS-06740-MAINTENANCE-TRUCKING/Service-Shop-Entry-Technician---Hope-Mills--NC_R-2713424) |
 | Pharmacy Grad Intern (Hrly) - $25,000 Sign On Bonus (2027 Grad Sign On Program) | Walmart | (USA) CT PUTNAM 01980 WM SUPERCENTER |  | 2026-11-18 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CT-PUTNAM-01980-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2704056) |
 | Relationship Banker II - Portland (MLK Jr. Blvd), OR | U.S. Bank | Portland, OR |  | 2026-11-18 | [Apply](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Portland-OR/Relationship-Banker-II---Portland--MLK-Jr-Blvd---OR_2026-0035894) |
-| Retail Store Management Internship Summer 2027 - Greater Sacramento Area | CVS Health | 30 Locations |  | 2026-11-18 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Pleasanton/Retail-Store-Management-Internship-Summer-2027---Greater-Bay-Area--East-Bay---North-Bay_R1018174) |
-| Pharmacy Intern | CVS Health | TX - Pharr |  | 2026-11-18 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Pharr/Pharmacy-Intern_R1108301) |
 | Phlebotomist Trainee | Labcorp | Phoenix AZ |  | 2026-11-18 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Phoenix-AZ/Phlebotomist-Trainee_2633180) |
 | Medical Laboratory Scientist Trainee/1, Renton Central Lab: Immunology | University of Washington | Renton, WA |  | 2026-11-18 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Renton-WA/Medical-Laboratory-Scientist-Trainee-1--Renton-Central-Lab--Immunology_REQ-0000139090-1) |
+| Intern | ADP employer db0fd5d5 | New York, NY, US |  | 2026-11-17 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=db0fd5d5-0b44-4cee-94ab-8a4f6c5e4ba3&ccId=19000101_000001&jobId=958035&lang=en_US&source=CC2) |
+| Administrative Support Intern | True Health. If | Sanford, FL, US |  | 2026-11-17 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d70f080d-6db1-4b5b-86bd-84cc3b99f2f9&ccId=19000101_000001&jobId=526228&lang=en_US&source=CC2) |
+| Intern - Sales Department | Speedway Motorsports | Hampton, GA, US |  | 2026-11-17 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d180c324-e784-463d-a355-61b3275338b9&ccId=19000101_000001&jobId=555360&lang=en_US&source=CC2) |
+| Junior Controls Engineer | TOMORROW HIRE | US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/6657C3088D) |
+| Summer 2027 TQE Internship | Thorlabs | Jessup, Maryland, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/2987B69B0D) |
+| Summer 2027 Marketing Internship | Thorlabs | Newton, New Jersey, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/5D42612F30) |
+| Summer 2027 Laser Systems and Technology Internship | Thorlabs | Jessup, Maryland, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/39D8EFDC19) |
+| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Cumberland, Rhode Island |  | 2026-11-17 | [Apply](https://jobs.lever.co/aogarciaagency/8023feae-f5c5-463d-8b2a-f2c5a7bb0372) |
+| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Iowa City, Iowa |  | 2026-11-17 | [Apply](https://jobs.lever.co/aogarciaagency/48b4869b-a4a4-46a1-927a-5022c509f1c8) |
+| Remote - Client Relations Manager Trainee | Aogarciaagency | Mount Pleasant, South Carolina |  | 2026-11-17 | [Apply](https://jobs.lever.co/aogarciaagency/c415d840-67e7-4583-8e5a-4f73b208c69f) |
+| Apprentice Piercer | studsinc | 1901 Northwest Expy, Oklahoma City, OK 73118 |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/studsinc/jobs/6264769004) |
+| Leasing Intern | esrtreit | New York, New York, United States |  | 2026-11-17 | [Apply](https://jobs.lever.co/esrtreit/36d00897-a787-4073-9d04-324d3587364d) |
+| Data Entry Admin - Learning & Development | braskem | La Porte, TX; Pasadena, TX |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/braskem/jobs/8207890003) |
 | Junior Credit Analyst | Northwest Bank | Seattle, WA |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4671837) |
 | Entry Level Accountant | ATBS | Golden, CO |  | 2026-11-17 | [Apply](https://atbs.breezy.hr/p/b714df4940cc-entry-level-accountant) |
-| Utilityworker Apprentice to Utilityworker I | ADP employer ba034618 | Fitchburg-MA, Lunenburg, MA, US |  | 2026-11-17 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ba034618-ece3-4146-bf0b-d929805bb982&ccId=19000101_000001&jobId=654611&lang=en_US&source=CC2) |
-| Data Entry Operator | STIIIZY | Los Angeles, California, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/8B64E8C9D8) |
-| Junior Mission Planning Engineer | Saalex | Lexington Park, Maryland, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/27F142BCA3) |
-| Online Entry-Level / Scheduling Coordinator | Aisle And Abroad | Georgia |  | 2026-11-17 | [Apply](https://jobs.lever.co/aisle_and_abroad/6bfec8c2-48c6-4c53-af09-c2f026ff995c) |
-| Online Customer Destination Care Coordinator / Entry-Level | Aisle And Abroad | Portland, Oregan |  | 2026-11-17 | [Apply](https://jobs.lever.co/aisle_and_abroad/03227dec-6b96-4e8b-b30a-cb7f0149f8df) |
-| Online Customer Care Coordinator Entry-Level | Aisle And Abroad | Philadelphia, Pennsylvania |  | 2026-11-17 | [Apply](https://jobs.lever.co/aisle_and_abroad/fca5f3d3-a161-424f-bf05-8047fe35b723) |
-| Junior Developer | kivaconfections | New York |  | 2026-11-17 | [Apply](https://jobs.lever.co/kivaconfections/87023a88-d446-4a80-a2ff-2916a2d54785) |
 | Management Trainee (Salt Lake City Airport) | SIXT | Salt Lake City, UT, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/SIXT/744000162167249) |
 | Jr. Creative, Copy | umt | Brooklyn, NY |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/umt/jobs/8949124002) |
 | 2027 Summer Internship, Fund Administration | theriversidecompany | Cleveland, OH |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/theriversidecompany/jobs/8949043002) |
@@ -174,7 +182,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Spring Intern | abb | Arecibo, Puerto Rico |  | 2026-11-17 | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Arecibo-Puerto-Rico/Spring-Intern_JR00017763-1) |
 | Pharmacy Pre-Grad Intern - WM | Walmart | (USA) VA GORDONSVILLE 04682 WM SUPERCENTER |  | 2026-11-17 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VA-GORDONSVILLE-04682-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2699254) |
 | AI Operations Intern, AI Clouds - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-17 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1) |
-| Pharmacy Intern - Grad | CVS Health | OR - Corvallis |  | 2026-11-17 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OR---Corvallis/Pharmacy-Intern---Grad_R1022016) |
 | Clinical Laboratory Technologist Trainee - Cytology | Labcorp | Shelton CT |  | 2026-11-17 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Shelton-CT/Clinical-Laboratory-Technologist-Trainee---Cytology_2639962) |
 | Civil Engineering Internship - Summer 2027 | TimmonsGroup1 | Raleigh, NC, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000162146459) |
 | Intern, Digital Properties and Innovation - Digital Media (Summer 2027) | southernpovertylawcenter | Atlanta, GA; Montgomery, AL; Jackson, MS; Miami, FL; New Orleans, LA |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8947982002) |
@@ -198,13 +205,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Clinical Development Engineering Intern | Intuitive | Sunnyvale, CA, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000162128885) |
 | Mechanical Process Engineer (New Grad) | generalmatter | Los Angeles |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5485524008) |
 | New Grad- Registered Nurse | bayada | Toms River, NJ 08754 / 39.95297 / -74.200832 |  | 2026-11-17 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8948233002) |
-| Engineering Intern - Summer 2027 | deeplocal | Pittsburgh |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/deeplocal/jobs/8395842) |
-| University of South Florida College Fair - Internship | darkwolfsolutions | Tampa, FL |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/8207405003) |
-| Recovery Coach / Entry-Level Mental Health Aide | crestwoodcareers | Bakersfield, California, United States |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/8207435003) |
-| Business Strategy and Analytics Intern | climatefirstbank | United States - Remote |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/climatefirstbank/jobs/4510870009) |
-| Entry-Level Automotive Parts Associate | carvana | Chesterfield, VA |  | 2026-11-17 | [Apply](https://www.carvana.com/careers/apply?gh_jid=8396281) |
-| Entry-Level Automotive Parts Associate | carvana | Chesterfield, VA |  | 2026-11-17 | [Apply](https://www.carvana.com/careers/apply?gh_jid=8335338) |
-| Sales Intern | Bosch Group | Plymouth, MI, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162130342) |
 <!-- JOBS_TABLE_END -->
 
 <details>
