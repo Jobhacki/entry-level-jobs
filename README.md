@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>22,617</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-18</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>22,992</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-18</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-18 08:16 UTC</sub>
+<sub>Snapshot 2026-11-18 12:16 UTC</sub>
 
 </div>
 
@@ -50,11 +50,17 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**22,617 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-18 08:16 UTC.** Apply links go to the employer's career page or hiring system.
+**22,992 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-18 12:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Trainee – Engineering Stores | piramalpharma | Ennore, TN |  | 2026-11-18 | [Apply](https://piramalpharma.wd102.myworkdayjobs.com/en-US/piramal_external_careers/job/Ennore-TN/Trainee---Engineering-Stores_R00005117) |
+| Winter 2027 Public Sector Advisory Intern - Graduate Students | bakertilly | 7 Locations |  | 2026-11-18 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-NY-New-York-City-66-Hudson-Blvd-E/Winter-2027-Public-Sector-Advisory-Intern---Graduate-Students_JR105414) |
+| Winter 2027 Public Sector Advisory Intern | bakertilly | USA IN Indianapolis |  | 2026-11-18 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-IN-Indianapolis/Winter-2027-Public-Sector-Advisory-Intern_JR105401) |
+| Data Entry & Order Processing Clerk | Jobs for Humanity | Oakland, CA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000162238529) |
+| HIQA - Apprentice H&S Inspector | City of New York | New York City, NY, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016929736) |
+| Civil Engineer Intern - SIF | City of New York | New York City, NY, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016929741) |
 | Trainee - R&D | piramalpharma | Ennore, TN |  | 2026-11-18 | [Apply](https://piramalpharma.wd102.myworkdayjobs.com/en-US/piramal_external_careers/job/Ennore-TN/Trainee---R-D_R00004285) |
 | Trainee: Digital Technology-2027 Opportunities | bakerhughes | IN-KA-BANGALORE-NEON BUILDING WEST TOWER |  | 2026-11-18 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/Trainee--Digital-Technology-2027-Opportunities_R169262) |
 | Management Trainee | AlphabeInsightInc | New Orleans, LA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162225680) |
@@ -111,6 +117,47 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Relationship Banker II - Portland (MLK Jr. Blvd), OR | U.S. Bank | Portland, OR |  | 2026-11-18 | [Apply](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Portland-OR/Relationship-Banker-II---Portland--MLK-Jr-Blvd---OR_2026-0035894) |
 | Phlebotomist Trainee | Labcorp | Phoenix AZ |  | 2026-11-18 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Phoenix-AZ/Phlebotomist-Trainee_2633180) |
 | Medical Laboratory Scientist Trainee/1, Renton Central Lab: Immunology | University of Washington | Renton, WA |  | 2026-11-18 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Renton-WA/Medical-Laboratory-Scientist-Trainee-1--Renton-Central-Lab--Immunology_REQ-0000139090-1) |
+| 2027 Intern - Software Engineer (Electronic Systems) - Hunt Valley, MD | Textron | Hunt Valley, MD, US |  | 2026-11-17 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688&lang=en) |
+| Spring 2027 Operations Co-Op | Commonwealth of Massachusetts | Boston, MA, US |  | 2026-11-17 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000808&lang=en) |
+| Distributed Generation and Clean Energy Intern | Commonwealth of Massachusetts | Boston, MA, US |  | 2026-11-17 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260007ZE&lang=en) |
+| Summer 2027 Land Intern | D.R. Horton | Tampa, FL, US |  | 2026-11-17 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605796&lang=en) |
+| Newmark Management Consulting Intern | Newmark Group | OH, United States |  | 2026-11-17 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250561) |
+| Software Engineering Intern | Emerson Electric | Austin, TX, United States |  | 2026-11-17 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013632) |
+| Civil/Environmental Engineering Co-op/Intern – Water (Summer 2027) | Stantec | Richmond, VA, United States |  | 2026-11-17 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008928) |
+| Intern, Transaction Opinions | Kroll | Chicago, IL, United States |  | 2026-11-17 | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014743) |
+| Entry Level Technician I | Intertek | Plano, TX, United States |  | 2026-11-17 | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16061) |
+| Internal Audit Intern | CooperSurgical | Victor, NY, United States |  | 2026-11-17 | [Apply](https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13267) |
+| 2027 Commercial Summer Intern - Houston, TX | Citizens Financial Group | United States |  | 2026-11-17 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49213) |
+| Intern - Engineering | Berkshire Hathaway Energy | Omaha, NE, United States |  | 2026-11-17 | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006017) |
+| Quality Summer Internship Positions | Cummins | Columbus, IN, United States |  | 2026-11-17 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2441013) |
+| Sales Co-Op Positions | Cummins | Columbus, IN, United States |  | 2026-11-17 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437771) |
+| Marketing and Communication Internship: Winter | Northwell Health | New Hyde Park, Nassau, United States |  | 2026-11-17 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204155) |
+| Early Career Structural Engineer (Buildings) | WSP | San Diego, CA, United States |  | 2026-11-17 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99669) |
+| Geotechnical Engineering Intern – Winter/Spring 2027 | WSP | Birmingham, AL, United States |  | 2026-11-17 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99544) |
+| Early Career Mechanical Engineer | WSP | Atlanta, GA, United States |  | 2026-11-17 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99275) |
+| Security Officer - Entry Level | Securitas | Manassas, VA, United States |  | 2026-11-17 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177229) |
+| Entry Level Security Officer | Securitas | Findlay, OH, United States |  | 2026-11-17 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177207) |
+| Civil Engineering Intern | GHD | SEATTLE, WA, United States |  | 2026-11-17 | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29512) |
+| Environmental Professional Intern | GHD | BATON ROUGE, LA, United States |  | 2026-11-17 | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29443) |
+| Graduate Environmental Professional | GHD | BATON ROUGE, LA, United States |  | 2026-11-17 | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29442) |
+| Assistant Manager Trainee - Store 705779 | Sherwin-Williams | Westbrook, ME, United States |  | 2026-11-17 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629395) |
+| Assistant Manager Trainee | Sherwin-Williams | Yarmouth, ME, United States |  | 2026-11-17 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629364) |
+| UX Design Intern (Winter/Spring 2027) | Vertiv | Westerville, OH, United States |  | 2026-11-17 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285463) |
+| Pipefitter- Apprentice | Sundt | Morrilton, AR, United States |  | 2026-11-17 | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11908) |
+| Panel Technical Apprentice | Sundt | Glendale, AZ, United States |  | 2026-11-17 | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11905) |
+| OCI Intern Conversion - Undergrad Software Engineer Full-Time - Nashville, TN -... | Oracle | Nashville, TN, United States |  | 2026-11-17 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350821) |
+| Early Careers: Corporate Risk and Broking (CRB)- Internship - Facultative Reins... | WTW | New York, NY, United States |  | 2026-11-17 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607348) |
+| Analog IC Design (AI/ML) Engineering Intern | Texas Instruments | Dallas, TX, United States |  | 2026-11-17 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319) |
+| Systems Engineering Intern - Power | Texas Instruments | Dallas, TX, United States |  | 2026-11-17 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016343) |
+| Control, Automation & Energy Systems Engineering Intern | Arcadis | Los Angeles, CA, United States |  | 2026-11-17 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45986) |
+| Entry level Project Manager - HUD Building Assessment | All Environmental Inc | Denver, CO |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4415459) |
+| Entry level Project Manager - HUD Building Assessment | All Environmental Inc | Salt Lake City, UT |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4415475) |
+| Substance Use Disorder Professional - Trainee (SUDPT) | Evergreen Treatment Services | Seattle, WA |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4672978) |
+| Solutions Engineering Intern | Bask Health | US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/F2B03DEBF2) |
+| Sales Strategy & Operations Intern | Bask Health | US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/B0DFD40A99) |
+| Sales Development Representative, Entry Level | Bask Health | US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/9118C03198) |
+| Junior Accountant | Aretum | McLean, Virginia, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/8B83C10E80) |
+| Steel Detailer (Tekla) - Entry Level / Junior | AlphaX | Austin, Texas, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/F8AB590CF5) |
 | Retail Store Management Trainee - 2100 | Money Mizer | Phenix City, AL, United States |  | 2026-11-17 | [Apply](https://jobs.jobvite.com/firstcash-holdings-inc/job/oyn5Afwk) |
 | Apprentice Piercer | studsinc | 1901 Northwest Expy, Oklahoma City, OK 73118 |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/studsinc/jobs/6264769004) |
 | Data Entry Admin - Learning & Development | braskem | La Porte, TX; Pasadena, TX |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/braskem/jobs/8207890003) |
@@ -158,53 +205,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Manager Trainee | towerloan | Round Rock TX |  | 2026-11-17 | [Apply](https://towerloan.wd12.myworkdayjobs.com/en-US/tower_loan_careers/job/Round-Rock-TX/Manager-Trainee_JR2333) |
 | Legacy Plumbing - Plumbing Apprentice | acehardware | TX - Little Elm |  | 2026-11-17 | [Apply](https://acehardware.wd1.myworkdayjobs.com/en-US/external/job/TX---Little-Elm/Legacy-Plumbing---Plumbing-Apprentice_REQ-35131-1) |
 | Inside Sales Intern (Summer 2027) | cohesity | Heathrow, FL - USA (Office) |  | 2026-11-17 | [Apply](https://cohesity.wd5.myworkdayjobs.com/en-US/cohesity_careers/job/Heathrow-FL---USA-Office/Inside-Sales-Intern--Summer-2027-_R04825-1) |
-| Lineman Intern | aep | Longview, TX |  | 2026-11-17 | [Apply](https://aep.wd1.myworkdayjobs.com/en-US/aepcareersite/job/Longview-TX/Lineman-Intern_R20915) |
-| Environmental Services Assistant I (HM JR92983) - PT with Benefits - 20 Hrs. We... | christianacare | Wilmington, DE |  | 2026-11-17 | [Apply](https://christianacare.wd5.myworkdayjobs.com/en-US/cchs/job/Wilmington-DE/Environmental-Services-Assistant-I--HM-JR92983----PT-with-Benefits---20-Hrs-Weekly-40-Hrs-Biweekly---3pm---1130pm-Shift--EVS-Wilmington-_JR92983) |
-| Project Engineer - Entry Level - Salt Lake City Region 2026 - 2027 | walshgroup | UT\_Salt\_Lake |  | 2026-11-17 | [Apply](https://walshgroup.wd12.myworkdayjobs.com/en-US/walshgroup/job/UT_Salt_Lake/Project-Engineer---Entry-Level---Salt-Lake-City-Region-2026---2027_JR17100) |
-| Purchasing Data Validation Intern | alfalaval | Houston - Greenspoint, TX |  | 2026-11-17 | [Apply](https://alfalaval.wd3.myworkdayjobs.com/en-US/alfa_laval_jobs/job/Houston---Greenspoint-TX/Purchasing-Data-Validation-Intern_JR0049274) |
-| Controls Engineering Intern/Co-op | kiongroup | Grand Rapids, MI, United States |  | 2026-11-17 | [Apply](https://kiongroup.wd3.myworkdayjobs.com/en-US/kion_scs/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-op_JR-0095911) |
-| Supply Chain / Procurement Co-Op | barrywehmiller | 6 Locations |  | 2026-11-17 | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/en-US/bwcareers/job/Remote---USA/Supply-Chain---Procurement-Co-Op_R023575) |
-| Webber - Construction Services Intern - Heavy Civil | ferrovial | Houston |  | 2026-11-17 | [Apply](https://ferrovial.wd3.myworkdayjobs.com/en-US/ferrovial_career_site/job/Houston/Webber---Intern---Construction-Services_JR19428) |
-| Operator Trainee | amcor | ACD Dallas TX |  | 2026-11-17 | [Apply](https://amcor.wd5.myworkdayjobs.com/en-US/amcor_external_career_site/job/ACD-Dallas-TX/Operator-Trainee_REQ_98792) |
-| Healthcare Algorithms Research Intern | analogdevices | US, MA, Boston |  | 2026-11-17 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-MA-Boston/Healthcare-Algorithms-Research-Intern_R268370) |
-| Hardware Engineer I (Intern) - United States | cisco | 3 Locations |  | 2026-11-17 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-I--Intern----United-States_2024535-1) |
-| Entry Level Production/Inventory Coordinator | boeing | USA - Mesa, AZ |  | 2026-11-17 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Mesa-AZ/Entry-Level-Production-Inventory-Coordinator_JR2026524317-2) |
-| Undergrad Intern – R&D EOS / Global Program Management (Summer 2027) | amgen | United States - Remote |  | 2026-11-17 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---R-D-EOS---Global-Program-Management--Summer-2027-_R-260924) |
-| Undergrad Intern - Change Readiness and Organization Effectiveness (Summer 2027) | amgen | United States - Remote |  | 2026-11-17 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Change-Readiness-and-Organization-Effectiveness--Summer-2027-_R-261940) |
-| Grad Intern – Protein Engineering (Summer 2027) | amgen | US - California - Thousand Oaks |  | 2026-11-17 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/Grad-Intern---Protein-Engineering--Summer-2027-_R-261826) |
-| Summer 2027 Clinical Supply Chain Coordinator Intern | astrazeneca | US - Boston - MA |  | 2026-11-17 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Boston---MA/Summer-2027-Clinical-Supply-Chain-Coordinator-Intern_R-264542) |
-| Dental Assistant - Entry Level | aspendental | Chicago, Illinois |  | 2026-11-17 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Chicago-Illinois/Dental-Assistant---Entry-Level_R2026-014224-1) |
-| Dental Assistant - Entry Level | aspendental | Madisonville, Kentucky |  | 2026-11-17 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Madisonville-Kentucky/Dental-Assistant---Entry-Level_R2026-014233) |
-| Spring Intern | abb | Arecibo, Puerto Rico |  | 2026-11-17 | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Arecibo-Puerto-Rico/Spring-Intern_JR00017763-1) |
-| Pharmacy Pre-Grad Intern - WM | Walmart | (USA) VA GORDONSVILLE 04682 WM SUPERCENTER |  | 2026-11-17 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VA-GORDONSVILLE-04682-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2699254) |
-| AI Operations Intern, AI Clouds - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-17 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1) |
-| Clinical Laboratory Technologist Trainee - Cytology | Labcorp | Shelton CT |  | 2026-11-17 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Shelton-CT/Clinical-Laboratory-Technologist-Trainee---Cytology_2639962) |
-| Civil Engineering Internship - Summer 2027 | TimmonsGroup1 | Raleigh, NC, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000162146459) |
-| Intern, Digital Properties and Innovation - Digital Media (Summer 2027) | southernpovertylawcenter | Atlanta, GA; Montgomery, AL; Jackson, MS; Miami, FL; New Orleans, LA |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8947982002) |
-| Customer Care and Order Entry Agent | somfygroup | Dayton, NJ, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/somfygroup/744000162154670) |
-| Customer Care and Order Entry Agent | somfygroup | Boynton Beach, FL, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/somfygroup/744000162157089) |
-| Junior Doctor - AI Training - Improving AI Trust and Safety - United States (Re... | prolificacademicltd | Remote |  | 2026-11-17 | [Apply](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5040654101) |
-| International Medical Graduate (IMG) Physician - AI Training - Improving AI Tru... | prolificacademicltd | Remote |  | 2026-11-17 | [Apply](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5040617101) |
-| Jr. Data Analyst (BI Developer) - Korean Bilingual | SBT Global | Plano, TX, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/SBTGlobalInc/3743990016914244) |
-| Graduate Field Applications Engineer | Renesas Electronics | San Jose, CALIFORNIA, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162150589) |
-| Field Applications Engineer Intern | Renesas Electronics | Bridgewater, NJ, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162149612) |
-| Sales Trainee | RedBull | Little Rock, AR, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000162120979) |
-| Inside Sales Trainee | RedBull | Denver, CO, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000162138869) |
-| Retail General Manager - Trainee | Pilot Company | Indianapolis, IN, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000162123770) |
-| Restaurant Manager - Trainee | Pilot Company | Minooka, IL, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000162140927) |
-| Retail General Manager - Trainee | Pilot Company | Gary, IN, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000162138936) |
-| McWane Ductile Ohio - Storeroom Intern | McWane | Coshocton, OH, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/McWaneInc/3743990016917686) |
-| Product & Test Engineering, Intern Summer 2027 | lightmatter | Mountain View, CA |  | 2026-11-17 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008) |
-| Spelman Pre-Law Paralegal Internship (Summer 2027) | kostelanetzllp | New York, NY |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/kostelanetzllp/jobs/4730259006) |
-| Field Operations Intern - Summer 2027 | jrmconstructionmanagementllc | New York, NY |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4730320006) |
-| Construction Estimating Intern - Summer 2027 | jrmconstructionmanagementllc | New York, NY |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4730319006) |
-| Clinical Development Engineering Intern | Intuitive | Sunnyvale, CA, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000162128885) |
-| Mechanical Process Engineer (New Grad) | generalmatter | Los Angeles |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5485524008) |
-| New Grad- Registered Nurse | bayada | Toms River, NJ 08754 / 39.95297 / -74.200832 |  | 2026-11-17 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8948233002) |
-| Engineering Intern - Summer 2027 | deeplocal | Pittsburgh |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/deeplocal/jobs/8395842) |
-| University of South Florida College Fair - Internship | darkwolfsolutions | Tampa, FL |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/8207405003) |
-| Recovery Coach / Entry-Level Mental Health Aide | crestwoodcareers | Bakersfield, California, United States |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/8207435003) |
-| Business Strategy and Analytics Intern | climatefirstbank | United States - Remote |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/climatefirstbank/jobs/4510870009) |
 <!-- JOBS_TABLE_END -->
 
 <details>
