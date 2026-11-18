@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>23,851</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-18</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>22,617</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-18</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-18 04:17 UTC</sub>
+<sub>Snapshot 2026-11-18 08:16 UTC</sub>
 
 </div>
 
@@ -50,11 +50,16 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**23,851 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-18 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**22,617 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-18 08:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Trainee - R&D | piramalpharma | Ennore, TN |  | 2026-11-18 | [Apply](https://piramalpharma.wd102.myworkdayjobs.com/en-US/piramal_external_careers/job/Ennore-TN/Trainee---R-D_R00004285) |
+| Trainee: Digital Technology-2027 Opportunities | bakerhughes | IN-KA-BANGALORE-NEON BUILDING WEST TOWER |  | 2026-11-18 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/Trainee--Digital-Technology-2027-Opportunities_R169262) |
+| Management Trainee | AlphabeInsightInc | New Orleans, LA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162225680) |
+| Growth Intern | atlys | USA |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/atlys/021f462b-dcab-4bd9-a861-4157fb23d11f) |
+| Software Engineering Intern (BS/MS) | Airbnb | San Francisco, California |  | 2026-11-18 | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
 | Auto Glass Installation Technician Trainee | belron | PARIS, TN |  | 2026-11-18 | [Apply](https://belron.wd3.myworkdayjobs.com/en-US/safelite_careers/job/PARIS-TN/Auto-Glass-Installation-Technician-Trainee_JR76562) |
 | New Graduate Nurse | freseniusmedicalcare | Rocky Mount, NC |  | 2026-11-18 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Rocky-Mount-NC/New-Graduate-Nurse_R0278458) |
 | Foreign Pharmacy Grad - International Pharmacy Intern | CVS Health | MA - Springfield |  | 2026-11-18 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Springfield/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1108308) |
@@ -67,6 +72,7 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Robot Learning Research Intern | Bosch Group | Pittsburgh, PA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162212029) |
 | Entry-Level Modeling & Simulation Software Engineer | starfish | Huntsville, AL |  | 2026-11-18 | [Apply](https://starfish.wd501.myworkdayjobs.com/en-US/careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1) |
 | Junior-Level Modeling & Simulation Software Engineer | starfish | Huntsville, AL |  | 2026-11-18 | [Apply](https://starfish.wd501.myworkdayjobs.com/en-US/careers/job/Huntsville-AL/Junior-Level-Modeling---Simulation-Software-Engineer_R2207) |
+| Boiler Operator Trainee - 2nd Shift - Columbus Plant | abbott | United States - Ohio - Columbus |  | 2026-11-18 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Ohio---Columbus/Boiler-Operator-Trainee---2nd-Shift---Columbus-Plant_31167826) |
 | Pharmacy Undergraduate Summer Intern | centene | Remote-MO |  | 2026-11-18 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Pharmacy-Undergraduate-Summer-Intern_1667782) |
 | Managed Care Pharmacy Undergraduate Summer Intern | centene | Remote-MO |  | 2026-11-18 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Managed-Care-Pharmacy-Undergraduate-Summer-Intern_1667804) |
 | Manager Trainee | towerloan | Starkville MS |  | 2026-11-18 | [Apply](https://towerloan.wd12.myworkdayjobs.com/en-US/tower_loan_careers/job/Starkville-MS/Manager-Trainee_JR2421-1) |
@@ -105,18 +111,8 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Relationship Banker II - Portland (MLK Jr. Blvd), OR | U.S. Bank | Portland, OR |  | 2026-11-18 | [Apply](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Portland-OR/Relationship-Banker-II---Portland--MLK-Jr-Blvd---OR_2026-0035894) |
 | Phlebotomist Trainee | Labcorp | Phoenix AZ |  | 2026-11-18 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Phoenix-AZ/Phlebotomist-Trainee_2633180) |
 | Medical Laboratory Scientist Trainee/1, Renton Central Lab: Immunology | University of Washington | Renton, WA |  | 2026-11-18 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Renton-WA/Medical-Laboratory-Scientist-Trainee-1--Renton-Central-Lab--Immunology_REQ-0000139090-1) |
-| Intern | ADP employer db0fd5d5 | New York, NY, US |  | 2026-11-17 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=db0fd5d5-0b44-4cee-94ab-8a4f6c5e4ba3&ccId=19000101_000001&jobId=958035&lang=en_US&source=CC2) |
-| Administrative Support Intern | True Health. If | Sanford, FL, US |  | 2026-11-17 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d70f080d-6db1-4b5b-86bd-84cc3b99f2f9&ccId=19000101_000001&jobId=526228&lang=en_US&source=CC2) |
-| Intern - Sales Department | Speedway Motorsports | Hampton, GA, US |  | 2026-11-17 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d180c324-e784-463d-a355-61b3275338b9&ccId=19000101_000001&jobId=555360&lang=en_US&source=CC2) |
-| Junior Controls Engineer | TOMORROW HIRE | US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/6657C3088D) |
-| Summer 2027 TQE Internship | Thorlabs | Jessup, Maryland, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/2987B69B0D) |
-| Summer 2027 Marketing Internship | Thorlabs | Newton, New Jersey, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/5D42612F30) |
-| Summer 2027 Laser Systems and Technology Internship | Thorlabs | Jessup, Maryland, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/39D8EFDC19) |
-| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Cumberland, Rhode Island |  | 2026-11-17 | [Apply](https://jobs.lever.co/aogarciaagency/8023feae-f5c5-463d-8b2a-f2c5a7bb0372) |
-| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Iowa City, Iowa |  | 2026-11-17 | [Apply](https://jobs.lever.co/aogarciaagency/48b4869b-a4a4-46a1-927a-5022c509f1c8) |
-| Remote - Client Relations Manager Trainee | Aogarciaagency | Mount Pleasant, South Carolina |  | 2026-11-17 | [Apply](https://jobs.lever.co/aogarciaagency/c415d840-67e7-4583-8e5a-4f73b208c69f) |
+| Retail Store Management Trainee - 2100 | Money Mizer | Phenix City, AL, United States |  | 2026-11-17 | [Apply](https://jobs.jobvite.com/firstcash-holdings-inc/job/oyn5Afwk) |
 | Apprentice Piercer | studsinc | 1901 Northwest Expy, Oklahoma City, OK 73118 |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/studsinc/jobs/6264769004) |
-| Leasing Intern | esrtreit | New York, New York, United States |  | 2026-11-17 | [Apply](https://jobs.lever.co/esrtreit/36d00897-a787-4073-9d04-324d3587364d) |
 | Data Entry Admin - Learning & Development | braskem | La Porte, TX; Pasadena, TX |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/braskem/jobs/8207890003) |
 | Junior Credit Analyst | Northwest Bank | Seattle, WA |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4671837) |
 | Entry Level Accountant | ATBS | Golden, CO |  | 2026-11-17 | [Apply](https://atbs.breezy.hr/p/b714df4940cc-entry-level-accountant) |
@@ -205,6 +201,10 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Clinical Development Engineering Intern | Intuitive | Sunnyvale, CA, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000162128885) |
 | Mechanical Process Engineer (New Grad) | generalmatter | Los Angeles |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5485524008) |
 | New Grad- Registered Nurse | bayada | Toms River, NJ 08754 / 39.95297 / -74.200832 |  | 2026-11-17 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8948233002) |
+| Engineering Intern - Summer 2027 | deeplocal | Pittsburgh |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/deeplocal/jobs/8395842) |
+| University of South Florida College Fair - Internship | darkwolfsolutions | Tampa, FL |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/8207405003) |
+| Recovery Coach / Entry-Level Mental Health Aide | crestwoodcareers | Bakersfield, California, United States |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/8207435003) |
+| Business Strategy and Analytics Intern | climatefirstbank | United States - Remote |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/climatefirstbank/jobs/4510870009) |
 <!-- JOBS_TABLE_END -->
 
 <details>
