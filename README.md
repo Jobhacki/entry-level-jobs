@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>23,101</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>25,585</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-19 04:17 UTC</sub>
+<sub>Snapshot 2026-11-19 08:16 UTC</sub>
 
 </div>
 
@@ -50,12 +50,13 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**23,101 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**25,585 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 08:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Teens Make Health Happen Marketing & Communications Internship | HealthCorps | Flagstaff, Arizona, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/397BEF05E7) |
+| Technical Internship | lummustechnology | 3 Locations |  | 2026-11-19 | [Apply](https://lummustechnology.wd501.myworkdayjobs.com/en-US/lummustechnology/job/Houston---Texas/Technical-Internship_JR100307-1) |
+| Corporate Internship | lummustechnology | 2 Locations |  | 2026-11-19 | [Apply](https://lummustechnology.wd501.myworkdayjobs.com/en-US/lummustechnology/job/Houston---Texas/Corporate-Internship_JR100309) |
 | Corporate Wellness Internship - Spring 2027 | exos | San Diego, CA |  | 2026-11-19 | [Apply](https://exos.wd501.myworkdayjobs.com/en-US/exoscareers/job/San-Diego-CA/Corporate-Wellness-Internship---Spring-2027_26-2154-1) |
 | Auto Glass Installation Technician Trainee | belron | Santa Rosa, CA |  | 2026-11-19 | [Apply](https://belron.wd3.myworkdayjobs.com/en-US/safelite_careers/job/Santa-Rosa-CA/Auto-Glass-Installation-Technician-Trainee_JR76910) |
 | Auto Glass Installation Technician Trainee | belron | BAKERSFIELD, CA |  | 2026-11-19 | [Apply](https://belron.wd3.myworkdayjobs.com/en-US/safelite_careers/job/BAKERSFIELD-CA/Auto-Glass-Installation-Technician-Trainee_JR76912-1) |
@@ -99,6 +100,8 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | General Finance Intern - Summer | carrier | 2 Locations |  | 2026-11-19 | [Apply](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/General-Finance-Intern---Summer_30218054) |
 | General Engineering Intern - Summer | carrier | CAI31: ALC - Indiana, 117 North High Street, Muncie, IN, 47305 USA |  | 2026-11-19 | [Apply](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI31-ALC---Indiana-117-North-High-Street-Muncie-IN-47305-USA/General-Engineering-Intern---Summer_30222053-2) |
 | Campgrounds and Destinations Sales Outbound Sales Intern | campingworld | Chicago, IL |  | 2026-11-19 | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/jobs/job/Chicago-IL/Campgrounds-and-Destinations-Sales-Outbound-Sales-Intern_26_09123) |
+| Entry-Level Contract Management Specialist | boeing | USA - Hazelwood, MO |  | 2026-11-19 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Entry-Level-Contract-Management-Specialist_JR2026530130-1) |
+| McArthur's Jr. Sous Chef - Arizona Biltmore | benchmark | Arizona Biltmore |  | 2026-11-19 | [Apply](https://benchmark.wd1.myworkdayjobs.com/en-US/pgh_careers/job/Arizona-Biltmore/McArthur-s-Jr-Sous-Chef---Arizona-Biltmore_R0069043) |
 | Undergraduate R&D Wet Lab Summer Internship – Gaithersburg, MD | astrazeneca | US - Gaithersburg - MD |  | 2026-11-19 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Gaithersburg---MD/Undergraduate-R-D-Wet-Lab-Summer-Internship---Gaithersburg--MD_R-264650) |
 | Dental Assistant - Entry Level | aspendental | Onalaska, Wisconsin |  | 2026-11-19 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Onalaska-Wisconsin/Dental-Assistant---Entry-Level_R2026-014326) |
 | Dental Assistant - Entry Level | aspendental | Holbrook, New York |  | 2026-11-19 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Holbrook-New-York/Dental-Assistant---Entry-Level_R2026-014332) |
@@ -113,6 +116,10 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Pharmacy Intern | CVS Health | VA - Ashburn |  | 2026-11-19 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/VA---Ashburn/Pharmacy-Intern_R1108989) |
 | Phlebotomy Trainee | Labcorp | Redmond WA |  | 2026-11-19 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Redmond-WA/Phlebotomy-Trainee_2639828) |
 | Clinical Lab Technician - Entry level, will train! | Labcorp | Calabasas Hills CA |  | 2026-11-19 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Calabasas-Hills-CA/Clinical-Lab-Technician---Entry-level--will-train-_2637174) |
+| Lineman CS-Apprentice | Metropolitan Transportation Authority | Jamaica, NY, USA |  | 2026-11-18 | [Apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/o6g2AfwI) |
+| Entry-Level Sales Development Representative - No Experience Required | Huzzle | Woburn, Massachusetts, US |  | 2026-11-18 | [Apply](https://apply.workable.com/j/39EA31B7DA) |
+| Entry-Level Sales Development Representative - No Experience Required | Huzzle | Fort Lauderdale, Florida, US |  | 2026-11-18 | [Apply](https://apply.workable.com/j/F260848478) |
+| Tax Intern - International | singerlewak | Los Angeles, California |  | 2026-11-18 | [Apply](https://jobs.lever.co/singerlewak/69af9033-4e92-4db1-afe9-24e81061ec89) |
 | Legislative Affairs Intern (Part-Time) | FICPA | Tallahassee, FL |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4675108) |
 | Product Design Graduate Intern (Summer 2027) | Sigma Computing | San Francisco, CA |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8208914003) |
 | Entry-Level Geotechnical Engineer (EIT) | olsson | Oklahoma City, OK |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5487572008) |
@@ -189,6 +196,7 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Data Science Intern (Undergrad)-Summer 2027 | bristolmyerssquibb | Remote - United States - US |  | 2026-11-18 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Remote---United-States---US/Data-Science-Intern--Undergrad--Summer-2027_R1608665) |
 | Digital Design Engineering Intern - Summer 2027 | analogdevices | US, TX, Austin, Plaza on the Lake |  | 2026-11-18 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-TX-Austin-Plaza-on-the-Lake/Digital-Design-Engineering-Intern---Summer-2027_R268548) |
 | Analog Design Engineer Intern | analogdevices | US, CA, San Jose, Rio Robles |  | 2026-11-18 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-CA-San-Jose-Rio-Robles/Analog-Design-Engineer-Intern_R269549) |
+| INTERN/Global Patient Safety (Summer 2027) | amgen | United States - Remote |  | 2026-11-18 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/INTERN-Global-Patient-Safety--Summer-2027-_R-260517) |
 | U.S. Policy & Political Affairs Intern | astrazeneca | US - Washington - DC |  | 2026-11-18 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Washington---DC/US-Policy---Political-Affairs-Intern_R-264633) |
 | Portfolio, Capacity & AI-Enabled Business Operations Intern | astrazeneca | US - Gaithersburg - MD |  | 2026-11-18 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Gaithersburg---MD/Portfolio--Capacity---AI-Enabled-Business-Operations-Intern_R-264635) |
 | Dental Assistant - Entry Level | aspendental | Madison, Wisconsin |  | 2026-11-18 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Madison-Wisconsin/Dental-Assistant---Entry-Level_R2026-014301) |
@@ -197,14 +205,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Administrator Intern | pacs |  |  | 2026-11-18 | [Apply](https://pacs.wd108.myworkdayjobs.com/en-US/pacs/job/Remote---South-Carolina/Administrator-Intern_JR190404) |
 | Summer 2027 Intern - Policy, Office of Ethical and Humane Use (OHEU) | Salesforce | California - San Francisco |  | 2026-11-18 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern----Policy--Office-of-Ethical-and-Humane-Use--OHEU-_JR368543-2) |
 | Target Creative Intern-Minneapolis, MN (Starting Summer 2027) | Target | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |  | 2026-11-18 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Target-Creative-Intern-Minneapolis--MN--Starting-Summer-2027-_R0000480617) |
-| Graduate Research Assistant | Jefferson Health | Philadelphia, PA |  | 2026-11-18 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Philadelphia-PA/Graduate-Research-Assistant_REQ-0039495) |
-| Spring 2027 Intern - Software Engineering | Western Digital | Irvine, CA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000162353069) |
-| Field Service Representative -Intern | VeoliaEnvironnementSA | Atlanta, GA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162338193) |
-| Instrumentation & Equipment Engineering Intern | VeoliaEnvironnementSA | Cary, NC, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162356599) |
-| Summer 2027 Environmental Health & Safety Internship | Wabtec | Erie, PA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990016939818) |
-| Business Development Intern | trace3 | Colorado Springs, CO |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8399428) |
-| Data Science Intern | SyngentaGroup | Greensboro, North Carolina, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708) |
-| Sales Trainee | RedBull | Commack, NY, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000162341166) |
 <!-- JOBS_TABLE_END -->
 
 <details>
