@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>26,205</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-20</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>26,231</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-20</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-20 04:17 UTC</sub>
+<sub>Snapshot 2026-11-20 08:16 UTC</sub>
 
 </div>
 
@@ -50,11 +50,13 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**26,205 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-20 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**26,231 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-20 08:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Spring Intern, Europe Programs | Spirit of America | Arlington, VA, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9d364228-b53e-4047-b8d2-f5af4df7d8c0&ccId=19000101_000001&jobId=605283&lang=en_US&source=CC2) |
+| Intern | ADP employer 98f43a46 | Houston, TX, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=98f43a46-91ce-4697-b1be-bde90852469e&ccId=19000101_000001&jobId=590519&lang=en_US&source=CC2) |
 | Contact Center Operations Analyst Graduate Summer Intern | centene | Remote-MO |  | 2026-11-20 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Contact-Center-Operations-Analyst-Graduate-Summer-Intern_1667779) |
 | Manager Trainee | jbhunt | Milford, DE - 255 North Rehoboth Boulevard |  | 2026-11-20 | [Apply](https://jbhunt.wd501.myworkdayjobs.com/en-US/careers/job/Milford-DE---255-North-Rehoboth-Boulevard/Manager-Trainee_00652056) |
 | Outside Sales Trainee | airliquidehr | Toledo, OH - Retail shop |  | 2026-11-20 | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/en-US/airgasexternalcareer/job/Toledo-OH---Retail-shop/Outside-Sales-Trainee_R10105304) |
@@ -102,14 +104,17 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Pre Grad Intern - Sam's | Walmart | (USA) CO ARVADA 06630 SAM'S CLUB |  | 2026-11-20 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CO-ARVADA-06630-SAMS-CLUB/Pre-Grad-Intern---Sam-s_R-2716096-1) |
 | Summer 2027 Intern - Sales Development, Public Sector | Salesforce | Virginia - Mclean |  | 2026-11-20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Mclean/Summer-2027-Intern---Sales-Development--Public-Sector_JR360458-1) |
 | Business Development Associate, Early Career | Salesforce | Illinois - Chicago |  | 2026-11-20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois---Chicago/Business-Development-Associate_JR347430-1) |
+| Banamex Volante Jr Tijuana | Citi | Tijuana Baja California Mexico |  | 2026-11-20 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tijuana-Baja-California-Mexico/Banamex-Volante-Jr-Tijuana_261011494) |
+| Product Management MBA Intern, GenAI Data Strategy - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--GenAI-Data-Strategy---Summer-2027_JR2029639) |
+| Semiconductor Device Modeling PhD Intern | Intel | US, Oregon, Hillsboro |  | 2026-11-20 | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Semiconductor-Device-Modeling-Intern_JR0289406) |
 | 2027 University Graduate - Technical Support Consultant | Adobe | San Jose |  | 2026-11-20 | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172786) |
 | Intern - Anatomic Pathology | Labcorp | Houston TX |  | 2026-11-20 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Houston-TX/Intern---Anatomic-Pathology_2631654) |
 | ROI Release Entry Technician | University of Washington | Seattle, WA |  | 2026-11-20 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/ROI-Release-Entry-Technician_REQ-0000139167-1) |
+| Career Connection Intern-SW | Ohio Wesleyan University | Delaware, OH, US |  | 2026-11-19 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a2082ac8-6363-4a1c-92d0-adacd9e4f844&ccId=19000101_000001&jobId=609053&lang=en_US&source=CC2) |
+| Finance AI Engineering Intern - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131) |
+| Cost Accountant Intern, Global Operations and Manufacturing - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cost-Accountant-Intern--Global-Operations-and-Manufacturing---Summer-2027_JR2028934-1) |
 | ORDER ENTRY CLERK (ONSITE MON - FRI 8:00AM - 5:00PM) | RADIANS INC | MEMPHIS, TN |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4654531) |
 | Intern - Aviation Engineering | Shrewsberry & Associates LLC | Dallas, TX |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679383) |
-| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Thornton, Colorado |  | 2026-11-19 | [Apply](https://jobs.lever.co/aogarciaagency/5ce07089-1478-4aee-a180-bdc7ade10506) |
-| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Hudson, New Hampshire |  | 2026-11-19 | [Apply](https://jobs.lever.co/aogarciaagency/04d4fd25-d34e-4954-9283-c736df3307ba) |
-| Remote - Client Relations Manager Trainee | Aogarciaagency | Elizabeth, New Jersey |  | 2026-11-19 | [Apply](https://jobs.lever.co/aogarciaagency/991759e1-43f4-401e-adb9-eb6cf2cca185) |
 | Intern, Serdes Analog Design Engineer | samsungsemiconductor | San Jose, California, United States |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003) |
 | Manufacturing Engineer Co-Op | northpointtechnology | Fort Wayne, Indiana, United States |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/northpointtechnology/jobs/8955840002) |
 | Product Security Engineering Intern, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-19 | [Apply](https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007) |
@@ -200,11 +205,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Intern/Co-op - Field Engineer - Spring 2027 Opportunities | bakerhughes | 2 Locations |  | 2026-11-19 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/US-WY-ROCK-SPRINGS-240-INDUSTRIAL-DRIVE/Intern-Co-op---Field-Engineer---Spring-2027-Opportunities_R168904) |
 | Intern - Engineering & Technology - Spring 2027 Opportunities | bakerhughes | US-TX-SUGAR LAND-12645 WEST AIRPORT BLVD |  | 2026-11-19 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/US-TX-SUGAR-LAND-12645-WEST-AIRPORT-BLVD/Intern---Engineering---Technology---Spring--2027-Opportunities_R168906) |
 | Summer 2027 Intern, Cell Therapy Research (Discovery & Engineering) | bristolmyerssquibb | Seattle 400 Dexter - WA - US |  | 2026-11-19 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Seattle-400-Dexter---WA---US/Summer-2027-Intern--Cell-Therapy-Research--Discovery---Engineering-_R1608728) |
-| Summer 2027 Intern, Nucleic Acid & Delivery Research | bristolmyerssquibb | Cambridge Crossing - MA - US |  | 2026-11-19 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Cambridge-Crossing---MA---US/Summer-2027-Intern--Nucleic-Acid---Delivery-Research_R1608729) |
-| Inpatient Pharmacy (Co-op) | bmc | Boston |  | 2026-11-19 | [Apply](https://bmc.wd1.myworkdayjobs.com/en-US/bmc/job/Boston/Inpatient-Pharmacy--Co-op-_52127) |
-| Biomedical Engineering Intern | analogdevices | US, MA, Wilmington |  | 2026-11-19 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R267570) |
-| New Grad Registered Nurse RN MedSurg | bannerhealth | Banner North Colorado Medical Center (1801 16th St) |  | 2026-11-19 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/Banner-North-Colorado-Medical-Center-1801-16th-St/New-Grad-Registered-Nurse-RN-MedSurg_R4456895) |
-| Early Career Welder Trainee | cat | South Milwaukee, Wisconsin |  | 2026-11-19 | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/South-Milwaukee-Wisconsin/Early-Career-Welder-Trainee_R0000406371) |
 <!-- JOBS_TABLE_END -->
 
 <details>
