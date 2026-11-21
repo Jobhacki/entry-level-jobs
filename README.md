@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>26,118</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>26,660</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-21 00:17 UTC</sub>
+<sub>Snapshot 2026-11-21 04:16 UTC</sub>
 
 </div>
 
@@ -50,11 +50,16 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**26,118 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-21 00:17 UTC.** Apply links go to the employer's career page or hiring system.
+**26,660 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-21 04:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Data Entry Specialist - Coding Support | alpinephysicians | USA, Texas, Remote |  | 2026-11-21 | [Apply](https://alpinephysicians.wd1.myworkdayjobs.com/en-US/external/job/USA-Texas-Remote/Data-Entry-Specialist---Coding-Support_R0002340-1) |
+| Internship - Mechanical Engineer | asml | Wilton, CT, USA |  | 2026-11-21 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00357881) |
+| Quality Intern | regent | North Kingstown, Rhode Island, USA |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/REGENT/068d624a-7ff2-4023-b98c-0de32a84a03a) |
+| Program Management Intern | regent | North Kingstown, Rhode Island, USA |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/REGENT/eb8397a4-ec2a-4287-bda1-6db4bbf821cf) |
+| SI/PI Intern | Etched | San Jose |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/Etched/45639738-0414-43e2-a5e7-b4acc928d62d) |
 | Data Science Intern | advanceauto | Raleigh, NC |  | 2026-11-21 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1) |
 | Data Analyst Intern | bankeasy | 2 Locations |  | 2026-11-21 | [Apply](https://bankeasy.wd5.myworkdayjobs.com/en-US/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864) |
 | PREMIER Workforce Management Internship | firstpremier | Sioux Falls, SD |  | 2026-11-21 | [Apply](https://firstpremier.wd503.myworkdayjobs.com/en-US/premier_careers/job/Sioux-Falls-SD/PREMIER-Workforce-Management-Internship_R-537-1) |
@@ -69,7 +74,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Route Trainee - (Wednesdays - Sundays) | pbv | St. Pauls, NC |  | 2026-11-21 | [Apply](https://pbv.wd503.myworkdayjobs.com/en-US/external/job/St-Pauls-NC/Route-Trainee----Wednesdays---Sundays-_R-2026-4876) |
 | Internship-Field Service Engineer | asml | Hillsboro, OR, USA |  | 2026-11-21 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Hillsboro-OR-USA/Internship-Field-Service-Engineer_J-00355817) |
 | Internship- Chandler CS DUV / EUV | asml | Chandler, AZ, USA |  | 2026-11-21 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Chandler-AZ-USA/Internship--Chandler-CS-DUV---EUV_J-00357416) |
-| Internship - Mechanical Engineer | asml | Wilton, CT, USA |  | 2026-11-21 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Wilton-CT-USA/Internship----Mechanical-Engineer_J-00357103) |
 | Auto Glass Installation Technician Trainee | belron | ROCHESTER, NY |  | 2026-11-21 | [Apply](https://belron.wd3.myworkdayjobs.com/en-US/safelite_careers/job/ROCHESTER-NY/Auto-Glass-Installation-Technician-Trainee_JR77461) |
 | Auto Glass Installation Technician Trainee | belron | COLORADO SPRINGS, CO |  | 2026-11-21 | [Apply](https://belron.wd3.myworkdayjobs.com/en-US/safelite_careers/job/COLORADO-SPRINGS-CO/Auto-Glass-Installation-Technician-Trainee_JR77174) |
 | Auto Glass Installation Technician Trainee | belron | COLORADO SPRINGS, CO |  | 2026-11-21 | [Apply](https://belron.wd3.myworkdayjobs.com/en-US/safelite_careers/job/COLORADO-SPRINGS-CO/Auto-Glass-Installation-Technician-Trainee_JR77204) |
@@ -87,10 +91,17 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | (USA) Pharmacy Grad Intern (Hrly) | Walmart | (USA) IL LINCOLN 00199 WM SUPERCENTER |  | 2026-11-21 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IL-LINCOLN-00199-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Grad-Intern--Hrly-_R-2714862-1) |
 | RN New Grad - Aberdeen Medical Center - Full Time | Sanford Health | SD, Aberdeen |  | 2026-11-21 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/SD-Aberdeen/RN-New-Grad---Aberdeen-Medical-Center---Full-Time_R-0282508) |
 | Nursing Clinical Internship (NCI) / Clinic | Avera Health | Yankton, SD |  | 2026-11-21 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Yankton-SD/Nursing-Clinical-Internship--NCI----Clinic_R-260031998) |
-| Marketing Operations Intern | Clean Power Alliance | Los Angeles, California, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/C7FFF71FEA) |
-| Logistics Internship (Summer 2027) | Arrivelogistics | Columbus, OH |  | 2026-11-20 | [Apply](https://jobs.lever.co/arrivelogistics/9da235e9-577b-4695-84bb-90d66b4d01c7) |
-| Logistics Internship (Summer 2027) | Arrivelogistics | Phoenix, AZ |  | 2026-11-20 | [Apply](https://jobs.lever.co/arrivelogistics/93352800-5bd9-41a6-a838-b41c3eaca0c6) |
-| Logistics Internship (Summer 2027) | Arrivelogistics | St. Paul, MN |  | 2026-11-20 | [Apply](https://jobs.lever.co/arrivelogistics/690c1f36-2f08-435c-a636-e9ec8f87ef8b) |
+| (1121223) Embedded Software Engineer- Entry Level role | Diversified Services Network, Inc. | Mossville, Illinois, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/AAF21352DA) |
+| Intern, Thematic Equities Research (Summer of 2027) | Bfsaul | Bethesda, Maryland |  | 2026-11-20 | [Apply](https://jobs.lever.co/bfsaul/ba71b8a2-95de-4176-b3d7-a9b9d72db230) |
+| Robotics Intern, UX Design | Tri | Los Altos, CA |  | 2026-11-20 | [Apply](https://jobs.lever.co/tri/2d9833d5-a940-4862-b13b-a1ecc9378fea) |
+| New Graduate Engineer, Propulsion (Raptor) | SpaceX | Hawthorne, CA |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/spacex/jobs/8957363002?gh_jid=8957363002) |
+| Harness Design Co-Op | muonspace | San Jose, CA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5304452007) |
+| Intern, Exterior Design, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5290848007?gh_jid=5290848007) |
+| Intern, ADAS Platform Tools, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) |
+| Intern - Molten Salt Blanket Engineer - Summer 2027 | Commonwealth Fusion Systems | Devens, MA |  | 2026-11-20 | [Apply](https://jobs.lever.co/cfsenergy/83ca56d7-f142-4ecc-af72-5484519eaf08) |
+| Intern - Electrical Engineer, RF Heating Systems - Spring 2027 | Commonwealth Fusion Systems | Devens, MA |  | 2026-11-20 | [Apply](https://jobs.lever.co/cfsenergy/a3a36962-1f34-40d3-b138-401b4e0c24e0) |
+| Intern - Electrical Engineer - Spring 2027 | Commonwealth Fusion Systems | Devens, MA |  | 2026-11-20 | [Apply](https://jobs.lever.co/cfsenergy/7d1080e7-395c-41ea-b166-641094725747) |
+| Summer 2027 - Mechanical Engineering Internship | CesiumAstro | El Segundo, CA |  | 2026-11-20 | [Apply](https://jobs.lever.co/CesiumAstro/6bbaaee4-2d16-4fcf-89ba-f6791960a099) |
 | Junior AI Engineer | vertexservicepartners | Charlotte, NC 28211 |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vertexservicepartners/jobs/4517555009) |
 | Security Software Engineer Intern | ServiceNow | Kirkland, Washington, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) |
 | Research Analyst Intern (Economics & Finance) - Summer 2027 | thebrattlegroup | Chicago, Illinois, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4757511005) |
@@ -171,8 +182,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Sales Operations Analyst Intern | minitab | State College, Pennsylvania, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200684003) |
 | Business Development Intern | minitab | State College, Pennsylvania, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8210859003) |
 | Residency Internship Program - Design | method | Charlotte, Atlanta, Denver, New York, US- Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/method/jobs/8205864003) |
-| Intern, AI/ML, Vehicle Infotainment, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007) |
-| Intern, Vehicle Motion Controls Engineer, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007) |
 | Apprentice Electrician | loenbro | San Antonio, Texas, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/loenbro/jobs/4516867009) |
 | Microbiologist (Entry Level) | Eurofins | King of Prussia, PA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162773049) |
 | Laboratory Support Technician-(entry-level), Eurofins Environment Testing, Eart... | Eurofins | Earth City, MO, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162807529) |
@@ -196,15 +205,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | 2027 Summer Intern - Operational Analysis - 6538 | Shield AI | Arlington, VA, US |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a) |
 | 2027 Summer Intern - Human Machine Teaming - 6532 | Shield AI | Arlington, VA, US |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/shield/52dfdcb9-e279-49de-97d0-08b7cc33179e) |
 | 2027 Summer Intern - Future Concepts - 6539 | Shield AI | Arlington, VA, US |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/shield/a0de8443-f135-4712-8f02-66f442b0cbc6) |
-| Radar Systems Engineer, Early Career | Anduril Industries | Costa Mesa, California, United States |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5303553007?gh_jid=5303553007) |
-| RF Integration Systems Engineer, Early Career | Anduril Industries | Costa Mesa, California, United States |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007) |
-| Mission Systems Engineer, Early Career | Anduril Industries | Costa Mesa, California, United States |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007) |
-| Growth & Marketing Intern / New Grad | clera | San Francisco |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/Clera/5a07317b-8255-458f-a028-9dc0ee78abaa) |
-| Engineering CoOp | 84674th44metrea9999 | Victor, NY |  | 2026-11-20 | [Apply](https://www.metrea.aero/careers/jobs/apply?gh_jid=4488685009) |
-| 2027 Finance Internship | abbott | 10 Locations |  | 2026-11-20 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Abbott-Park/XMLNAME-2027-Finance-Internship_31159945) |
-| BlueCard Host Claims Trainee | bcbst | USA, TN, Chattanooga, Remote |  | 2026-11-20 | [Apply](https://bcbst.wd1.myworkdayjobs.com/en-US/external/job/USA-TN-Chattanooga-Remote/BlueCard-Host-Claims-Trainee_R-52065) |
-| Digital Forensics Intern | corpartners | Envista-Raleigh NC Office |  | 2026-11-20 | [Apply](https://corpartners.wd5.myworkdayjobs.com/en-US/envista/job/Envista-Raleigh-NC-Office/Digital-Forensics-Intern_R2110-1) |
-| Technical Internship | lummustechnology | 2 Locations |  | 2026-11-20 | [Apply](https://lummustechnology.wd501.myworkdayjobs.com/en-US/lummustechnology/job/Houston---Texas/Technical-Internship_JR100323) |
 <!-- JOBS_TABLE_END -->
 
 <details>
