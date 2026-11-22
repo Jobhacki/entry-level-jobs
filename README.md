@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>25,220</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>24,068</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 04:17 UTC</sub>
+<sub>Snapshot 2026-11-22 08:17 UTC</sub>
 
 </div>
 
@@ -50,19 +50,18 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**25,220 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**24,068 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 08:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| 3rd shift Entry Level Optical Manufacturing | National Vision | St. Cloud, MN, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163086449) |
+| 2nd Shift Entry Level Optical Manufacturing | National Vision | St. Cloud, MN, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163086509) |
 | Auto Glass Installation Technician Trainee | belron | SUMTER, SC |  | 2026-11-22 | [Apply](https://belron.wd3.myworkdayjobs.com/en-US/safelite_careers/job/SUMTER-SC/Auto-Glass-Installation-Technician-Trainee_JR77539) |
 | Auto Glass Installation Technician Trainee | belron | GREENVILLE, SC |  | 2026-11-22 | [Apply](https://belron.wd3.myworkdayjobs.com/en-US/safelite_careers/job/GREENVILLE-SC/Seasonal-Repair-Specialist_JR77536) |
 | Auto Glass Installation Technician Trainee | belron | GREENVILLE, SC |  | 2026-11-22 | [Apply](https://belron.wd3.myworkdayjobs.com/en-US/safelite_careers/job/GREENVILLE-SC/Seasonal-Repair-Specialist_JR77537) |
 | Assistant Manager (01691) - 4201 Dr Martin Luther King Jr Blvd | Domino's | Kansas City, MO, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163032131) |
 | Delivery Driver(05389) - 1098 Dr MLK Jr Expy | Domino's | Andalusia, AL, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163047884) |
-| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Augusta, Maine |  | 2026-11-21 | [Apply](https://jobs.lever.co/aogarciaagency/405861bd-67ee-4175-82d9-a381c71613b1) |
-| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Frisco, Texas |  | 2026-11-21 | [Apply](https://jobs.lever.co/aogarciaagency/1763c7bd-fa5a-4604-a8a1-07589e3863d5) |
-| Remote - Client Relations Manager Trainee | Aogarciaagency | Sandy, Utah |  | 2026-11-21 | [Apply](https://jobs.lever.co/aogarciaagency/97c70bee-fee3-4ca3-93b6-f9f6f09ba40b) |
 | Firmware/Embedded Software Engineer Intern - Summer 2027 | nerostechnologies | Torrance, California, United States |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) |
 | 2027 Ogilvy Creative Summer Internship | ogilvy | Chicago, United States |  | 2026-11-21 | [Apply](https://www.ogilvy.com/careers/4757364005?gh_jid=4757364005) |
 | 2027 Ogilvy Creative Summer Internship | ogilvy | New York, New York |  | 2026-11-21 | [Apply](https://www.ogilvy.com/careers/4757353005?gh_jid=4757353005) |
@@ -146,6 +145,9 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Harness Design Co-Op | muonspace | San Jose, CA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5304452007) |
 | Intern, Exterior Design, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5290848007?gh_jid=5290848007) |
 | Intern, ADAS Platform Tools, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) |
+| Logistics Internship (Summer 2027) | Arrivelogistics | Columbus, OH |  | 2026-11-20 | [Apply](https://jobs.lever.co/arrivelogistics/9da235e9-577b-4695-84bb-90d66b4d01c7) |
+| Logistics Internship (Summer 2027) | Arrivelogistics | Phoenix, AZ |  | 2026-11-20 | [Apply](https://jobs.lever.co/arrivelogistics/93352800-5bd9-41a6-a838-b41c3eaca0c6) |
+| Logistics Internship (Summer 2027) | Arrivelogistics | St. Paul, MN |  | 2026-11-20 | [Apply](https://jobs.lever.co/arrivelogistics/690c1f36-2f08-435c-a636-e9ec8f87ef8b) |
 | Junior AI Engineer | vertexservicepartners | Charlotte, NC 28211 |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vertexservicepartners/jobs/4517555009) |
 | Security Software Engineer Intern | ServiceNow | Kirkland, Washington, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) |
 | Research Analyst Intern (Economics & Finance) - Summer 2027 | thebrattlegroup | Chicago, Illinois, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4757511005) |
@@ -203,8 +205,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Billing Analyst, Junior | bah | 2 Locations |  | 2026-11-20 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Billing-Analyst--Junior_R0251354) |
 | Summer 2027 Intern - Field Marketing, Missionforce | Salesforce | Virginia - Mclean |  | 2026-11-20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Mclean/Summer-2027-Intern---Field-Marketing--Missionforce_JR369144-1) |
 | Summer 2027 Intern - Product Marketing, Missionforce | Salesforce | California - San Francisco |  | 2026-11-20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Marketing--Missionforce_JR369152-1) |
-| Operation Manager Intern (Starting Summer 2027) Last Mile Distribution Center -... | Target | 2700 Winter St NE, Minneapolis,MN 55413-2945 |  | 2026-11-20 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/2700-Winter-St-NE-MinneapolisMN-55413-2945/Operation-Manager-Intern--Starting-Summer-2027--Last-Mile-Distribution-Center---Minneapolis--MN_R0000450437) |
-| Operation Manager Intern (Starting Summer 2027) Regional Distribution Center -... | Target | 25 N 75th Ave, Phoenix,AZ 85043-2109 |  | 2026-11-20 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/25-N-75th-Ave-PhoenixAZ-85043-2109/Operation-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center---Phoenix--AZ_R0000450404) |
 <!-- JOBS_TABLE_END -->
 
 <details>
