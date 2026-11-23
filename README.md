@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>26,037</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>26,414</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-23 08:18 UTC</sub>
+<sub>Snapshot 2026-11-23 12:19 UTC</sub>
 
 </div>
 
@@ -50,11 +50,15 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**26,037 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 08:18 UTC.** Apply links go to the employer's career page or hiring system.
+**26,414 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 12:19 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Junior Sales Representative - South Baldwin | D.R. Horton | Spanish Fort, AL, US |  | 2026-11-23 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605817&lang=en) |
+| Junior Sales Representative - North Baldwin | D.R. Horton | Spanish Fort, AL, US |  | 2026-11-23 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605819&lang=en) |
+| Junior Sales Representative - Central Baldwin | D.R. Horton | Spanish Fort, AL, US |  | 2026-11-23 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605818&lang=en) |
+| Intern/Co-op - Manufacturing - Spring 2027 Opportunities | bakerhughes | US-LA-BROUSSARD-1046 ALLIER ROAD |  | 2026-11-23 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/US-LA-BROUSSARD-1046-ALLIER-ROAD/Intern-Co-op---Manufacturing---Spring-2027-Opportunities_R169443) |
 | RN Emergency Department New Grad Days | honorhealth |  |  | 2026-11-23 | [Apply](https://honorhealth.wd12.myworkdayjobs.com/en-US/honorhealth_careers/job/Deer-Valley---19829-N-27th-Ave-Phoenix-AZ-85027/RN-Emergency-Department-New-Grad-Days_JR12422) |
 | Sales, Trading and Structuring Analyst Summer Internship Program 2028 New York | barclays | New York, 745 7th Avenue |  | 2026-11-23 | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/New-York-745-7th-Avenue/Sales--Trading-and-Structuring-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139050) |
 | Public Finance Analyst Summer Internship Program 2028 New York | barclays | New York, 745 7th Avenue |  | 2026-11-23 | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/New-York-745-7th-Avenue/Public-Finance-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139048) |
@@ -73,11 +77,15 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Internship - Finance Analyst | asml | Wilton, CT, USA |  | 2026-11-23 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Wilton-CT-USA/Internship---Finance-Analyst_J-00358071) |
 | Internship - Mechatronics Engineer | asml | Wilton, CT, USA |  | 2026-11-23 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00357865) |
 | Pharmacy Technician Trainee | Munson Healthcare | Traverse City, Michigan, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990017024826) |
+| 2027 R&D Summer Internship- Pittsburgh | Sherwin-Williams | Pittsburgh, PA, United States |  | 2026-11-22 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629849) |
 | Nightlife/Daylife Apprentice Bartender/Marketing Model - 2027 Season | Wynn Resorts | Las Vegas, NV, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/WynnResorts/744000163104999) |
 | Heavy Equipment Technician (Mechanic) Apprentice | equipmentsharecom | St. Louis, MO |  | 2026-11-22 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8397114) |
 | Business Development Internship | cellsignalingtechnology79 | DANVERS, MA |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/cellsignalingtechnology79/jobs/4731461006) |
 | Automation Internship | cellsignalingtechnology79 | DANVERS, MA |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/cellsignalingtechnology79/jobs/4731465006) |
 | IT Internship | cellsignalingtechnology79 | DANVERS, MA |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/cellsignalingtechnology79/jobs/4731459006) |
+| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Coventry, Rhode Island |  | 2026-11-22 | [Apply](https://jobs.lever.co/aogarciaagency/a7162bf2-0558-451f-a12d-1e0255cfc031) |
+| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Sioux City, Iowa |  | 2026-11-22 | [Apply](https://jobs.lever.co/aogarciaagency/28be0564-e482-4e84-af46-49f7678a27e1) |
+| Remote - Client Relations Manager Trainee | Aogarciaagency | Columbia, South Carolina |  | 2026-11-22 | [Apply](https://jobs.lever.co/aogarciaagency/be7c688c-74f1-40ba-b822-bf43b190974d) |
 | Coach/Ops Mgr Trainee | Walmart | (USA) TN COLLIERVILLE 00175 WM SUPERCENTER |  | 2026-11-22 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TN-COLLIERVILLE-00175-WM-SUPERCENTER/Coach-Ops-Mgr-Trainee_R-2717784-1) |
 | 3rd shift Entry Level Optical Manufacturing | National Vision | St. Cloud, MN, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163086449) |
 | 2nd Shift Entry Level Optical Manufacturing | National Vision | St. Cloud, MN, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163086509) |
@@ -99,7 +107,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Founders Associate Intern | clera | San Francisco |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/Clera/b4d66f3b-2471-4005-a1ab-1d3176d7f7a9) |
 | Operations Intern | clera | Salt Lake City |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/Clera/c9ae9435-2ca6-4222-a1de-7e20d44e974c) |
 | Pharmacy Grad Intern (Hrly) - $25,000 Sign On Bonus (2027 Grad Sign On Program) | Walmart | (USA) IN PORTAGE 02544 WM SUPERCENTER |  | 2026-11-21 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IN-PORTAGE-02544-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2681121) |
-| Internship, Supply Chain Analyst (Summer 2027) | pivotal | Palo Alto, CA |  | 2026-11-21 | [Apply](https://jobs.lever.co/pivotal/711d6c44-a1f9-4ab4-943f-b6e8d53194be) |
 | (USA) Coach/Ops Mgr Trainee | Walmart | (USA) AL DEMOPOLIS 00731 WM SUPERCENTER |  | 2026-11-21 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AL-DEMOPOLIS-00731-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2717345-29) |
 | COORDINATED ENTRY RESEARCH ANALYST | City of New York | New York, NY, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017021786) |
 | Public Health Assistant, Data Entry | City of New York | Long Island City, NY, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017022116) |
@@ -130,6 +137,7 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Denture Lab Technician - Digital Trainee | aspendental | Stockton, California |  | 2026-11-21 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Stockton-California/Denture-Lab-Technician---Digital-Trainee_R2026-014440) |
 | RN New Grad - Aberdeen Medical Center - Full Time | Sanford Health | SD, Aberdeen |  | 2026-11-21 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/SD-Aberdeen/RN-New-Grad---Aberdeen-Medical-Center---Full-Time_R-0282508) |
 | Nursing Clinical Internship (NCI) / Clinic | Avera Health | Yankton, SD |  | 2026-11-21 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Yankton-SD/Nursing-Clinical-Internship--NCI----Clinic_R-260031998) |
+| Top Secret Jr Business Analyst/Tester | Bart & Associates | Washington, D.C., DC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681404) |
 | Apprentice Teacher Assistant | Community Partnership for Child Development | Colorado Springs, CO |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682449) |
 | Intern Pre Licensed Therapist | Clarvida | Tehachapi, CA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/pathways/job/ocU7Afwx) |
 | Research Associate Intern | AArete | United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/aarete/job/oo77AfwW) |
@@ -153,9 +161,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Accounting AI Solution Engineer Intern - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1) |
 | Retail Store Management Trainee - 2134 | Cash America Pawn | Arlington, TX, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/firstcash-holdings-inc/job/oUl7AfwG) |
 | Visiting Jr. Researcher, Radiation Oncology | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-20 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=988060&lang=en) |
-| Summer 2027 Sales Intern | D.R. Horton | Tampa, FL, US |  | 2026-11-20 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605870&lang=en) |
-| Summer 2027 Construction Intern | D.R. Horton | Tampa, FL, US |  | 2026-11-20 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605895&lang=en) |
-| Summer 2027 Sales Intern | D.R. Horton | Charlotte, NC, US |  | 2026-11-20 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605894&lang=en) |
 | Spring 2027 - AI & Data Analytics Intern | onsemi | Scottsdale, AZ, United States |  | 2026-11-20 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010) |
 | Intern - Year Round (Systems Support) | Navy Federal | Pensacola, FL, United States |  | 2026-11-20 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/33339) |
 | Civil Engineering Intern- Summer 2027 | WSP | Herndon, VA, United States |  | 2026-11-20 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99827) |
@@ -177,12 +182,11 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Product Marketing Intern, DGX Products - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Intern--DGX-Products---Summer-2027_JR2029456-1) |
 | Robotics Engineer/ Lab Technician (Intern) | Trener Robotics | San Jose (US-HQ) |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/trener-robotics/49c2c8a6-7016-4c54-895e-9a3a4a060a74) |
 | Project Engineer - Entry Level | ECC | Honolulu, HI, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/ecc/job/oke8Afw0) |
-| CNC Fabricators - Intern and Apprenticeship | Acds | Bentonville, AR |  | 2026-11-20 | [Apply](https://jobs.lever.co/acds/773de45d-ff76-49bc-821a-34009327a68f) |
+| (1121223) Embedded Software Engineer- Entry Level role | Diversified Services Network, Inc. | Mossville, Illinois, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/AAF21352DA) |
 | New Graduate Engineer, Propulsion (Raptor) | SpaceX | Hawthorne, CA |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/spacex/jobs/8957363002?gh_jid=8957363002) |
 | Harness Design Co-Op | muonspace | San Jose, CA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5304452007) |
 | Intern, Exterior Design, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5290848007?gh_jid=5290848007) |
 | Intern, ADAS Platform Tools, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) |
-| Marketing Operations Intern | Clean Power Alliance | Los Angeles, California, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/C7FFF71FEA) |
 | Junior AI Engineer | vertexservicepartners | Charlotte, NC 28211 |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vertexservicepartners/jobs/4517555009) |
 | Security Software Engineer Intern | ServiceNow | Kirkland, Washington, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) |
 | Research Analyst Intern (Economics & Finance) - Summer 2027 | thebrattlegroup | Chicago, Illinois, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4757511005) |
@@ -201,10 +205,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Junior Production Designer | ironcladhq | San Francisco |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/ironcladhq/ef2767b4-566d-4685-a136-aca0a756bf62) |
 | Information Technology Intern | ibotta | Hybrid - Denver |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/ibotta/a3981036-8c0e-47f3-8720-92362bbbda4f) |
 | Agent Trainee - Farmers Insurance | farmersd40 | Carson Cook Agency - Kalalmazoo |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/farmersd40/041796ae-a0b1-477e-9a5e-afd5bf06dc85) |
-| 2027 Internship Marketing Intern | bedrock-robotics | San Francisco, CA |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/4a2a5456-92c4-4d25-bdff-662ff27da790) |
-| ServiceNow Jr. Developer (O&M) | accenturefederalservices | Washington, DC |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4707684006?gh_jid=4707684006) |
-| Promotional Pricing Intern | advanceauto | Raleigh, NC |  | 2026-11-20 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/Raleigh-NC/Promotional-Pricing-Intern_R-0620213) |
-| General Accounting Intern | advanceauto | Raleigh, NC |  | 2026-11-20 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/Raleigh-NC/General-Accounting-Intern_R-0620215) |
 <!-- JOBS_TABLE_END -->
 
 <details>
