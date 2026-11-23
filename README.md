@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-entry-level-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-entry-level-jobs-light.svg"><img alt="Entry-level jobs: JobHacki job list, last updated on Nov 22, 2026" src="assets/dist/hero-entry-level-jobs-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-entry-level-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-entry-level-jobs-light.svg"><img alt="Entry-level jobs: JobHacki job list, last updated on Nov 23, 2026" src="assets/dist/hero-entry-level-jobs-dark.svg" width="100%"></picture>
 
 <a href="#open-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/btn-primary-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/btn-primary-light.svg"><img alt="See the jobs" src="assets/dist/btn-primary-dark.svg" width="340"></picture></a>
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>25,323</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>24,556</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 20:18 UTC</sub>
+<sub>Snapshot 2026-11-23 00:17 UTC</sub>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 **Hi, I'm Sophia, JobHacki's AI assistant. Pick a list, inspect a role, and follow its employer link.**
 
-Looking for your first job or starting your career? This list is a fresh slice of entry level jobs taken from employers' own hiring systems, last updated on Nov 22, 2026.
+Looking for your first job or starting your career? This list is a fresh slice of entry level jobs taken from employers' own hiring systems, last updated on Nov 23, 2026.
 
 [Back to all 12 lists](https://github.com/Jobhacki/jobs)
 
@@ -50,18 +50,16 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**25,323 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 20:18 UTC.** Apply links go to the employer's career page or hiring system.
+**24,556 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 00:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Coventry, Rhode Island |  | 2026-11-22 | [Apply](https://jobs.lever.co/aogarciaagency/a7162bf2-0558-451f-a12d-1e0255cfc031) |
-| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Sioux City, Iowa |  | 2026-11-22 | [Apply](https://jobs.lever.co/aogarciaagency/28be0564-e482-4e84-af46-49f7678a27e1) |
-| Remote - Client Relations Manager Trainee | Aogarciaagency | Columbia, South Carolina |  | 2026-11-22 | [Apply](https://jobs.lever.co/aogarciaagency/be7c688c-74f1-40ba-b822-bf43b190974d) |
-| Work at Home Data Entry Agent - Part Time | usasurveyjob | Burbank, California |  | 2026-11-22 | [Apply](https://jobs.lever.co/usasurveyjob/ee4266f3-f7d2-4440-9351-b8e4b4c294a1) |
-| Work at Home Data Entry Agent - Part Time | usasurveyjob | Oxnard, California |  | 2026-11-22 | [Apply](https://jobs.lever.co/usasurveyjob/e875c480-b39a-4596-892e-041aa8528e4d) |
-| Work at Home Data Entry Agent - Part Time | usasurveyjob | Huntsville, Alabama |  | 2026-11-22 | [Apply](https://jobs.lever.co/usasurveyjob/90e5de64-1040-4e4b-98ee-4e74a72683be) |
-| Lab Internship | cellsignalingtechnology79 | DANVERS, MA |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/cellsignalingtechnology79/jobs/4730880006) |
+| Nightlife/Daylife Apprentice Bartender/Marketing Model - 2027 Season | Wynn Resorts | Las Vegas, NV, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/WynnResorts/744000163104999) |
+| Heavy Equipment Technician (Mechanic) Apprentice | equipmentsharecom | St. Louis, MO |  | 2026-11-22 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8397114) |
+| Business Development Internship | cellsignalingtechnology79 | DANVERS, MA |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/cellsignalingtechnology79/jobs/4731461006) |
+| Automation Internship | cellsignalingtechnology79 | DANVERS, MA |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/cellsignalingtechnology79/jobs/4731465006) |
+| IT Internship | cellsignalingtechnology79 | DANVERS, MA |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/cellsignalingtechnology79/jobs/4731459006) |
 | Coach/Ops Mgr Trainee | Walmart | (USA) TN COLLIERVILLE 00175 WM SUPERCENTER |  | 2026-11-22 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TN-COLLIERVILLE-00175-WM-SUPERCENTER/Coach-Ops-Mgr-Trainee_R-2717784-1) |
 | 3rd shift Entry Level Optical Manufacturing | National Vision | St. Cloud, MN, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163086449) |
 | 2nd Shift Entry Level Optical Manufacturing | National Vision | St. Cloud, MN, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163086509) |
@@ -114,7 +112,13 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Systems Engineering Co-Op (Software) | valeo | Troy, MI |  | 2026-11-21 | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241) |
 | Dental Assistant - Entry Level | aspendental | Sandusky, Ohio |  | 2026-11-21 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Sandusky-Ohio/Dental-Assistant---Entry-Level_R2026-014429-1) |
 | Denture Lab Technician - Digital Trainee | aspendental | Stockton, California |  | 2026-11-21 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Stockton-California/Denture-Lab-Technician---Digital-Trainee_R2026-014440) |
+| RN New Grad - Aberdeen Medical Center - Full Time | Sanford Health | SD, Aberdeen |  | 2026-11-21 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/SD-Aberdeen/RN-New-Grad---Aberdeen-Medical-Center---Full-Time_R-0282508) |
 | Nursing Clinical Internship (NCI) / Clinic | Avera Health | Yankton, SD |  | 2026-11-21 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Yankton-SD/Nursing-Clinical-Internship--NCI----Clinic_R-260031998) |
+| Intern Pre Licensed Therapist | Clarvida | Tehachapi, CA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/pathways/job/ocU7Afwx) |
+| Research Associate Intern | AArete | United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/aarete/job/oo77AfwW) |
+| Entry-Level Admin Support - Device Support Specialist | Midwest Mechanical | Lombard, IL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3820849) |
+| Entry Level Traffic Engineer | SRF Consulting Group | Madison, WI |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683018) |
+| Processing Plant Operator- IQF Trainee | Riverence Holdings LLC | BUHL, ID |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681607) |
 | Junior Applications Developer | Monarch Investment and Management Group | Franktown, CO, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/monarchinvestment/job/otd8Afw8) |
 | Jr. Multifamily Maintenance/Management Apprentice | Monarch Investment and Management Group | Maryland Heights, MO, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/monarchinvestment/job/orZ8AfwS) |
 | Software Engineering (AI Building) Intern (Summer 2027) | Ralliant | Beaverton, OR, United States |  | 2026-11-20 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324) |
@@ -156,11 +160,13 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Product Marketing Intern, DGX Products - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Intern--DGX-Products---Summer-2027_JR2029456-1) |
 | Robotics Engineer/ Lab Technician (Intern) | Trener Robotics | San Jose (US-HQ) |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/trener-robotics/49c2c8a6-7016-4c54-895e-9a3a4a060a74) |
 | Project Engineer - Entry Level | ECC | Honolulu, HI, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/ecc/job/oke8Afw0) |
-| Robotics Intern, UX Design | Tri | Los Altos, CA |  | 2026-11-20 | [Apply](https://jobs.lever.co/tri/2d9833d5-a940-4862-b13b-a1ecc9378fea) |
 | New Graduate Engineer, Propulsion (Raptor) | SpaceX | Hawthorne, CA |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/spacex/jobs/8957363002?gh_jid=8957363002) |
 | Harness Design Co-Op | muonspace | San Jose, CA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5304452007) |
 | Intern, Exterior Design, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5290848007?gh_jid=5290848007) |
 | Intern, ADAS Platform Tools, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) |
+| Logistics Internship (Summer 2027) | Arrivelogistics | Columbus, OH |  | 2026-11-20 | [Apply](https://jobs.lever.co/arrivelogistics/9da235e9-577b-4695-84bb-90d66b4d01c7) |
+| Logistics Internship (Summer 2027) | Arrivelogistics | Phoenix, AZ |  | 2026-11-20 | [Apply](https://jobs.lever.co/arrivelogistics/93352800-5bd9-41a6-a838-b41c3eaca0c6) |
+| Logistics Internship (Summer 2027) | Arrivelogistics | St. Paul, MN |  | 2026-11-20 | [Apply](https://jobs.lever.co/arrivelogistics/690c1f36-2f08-435c-a636-e9ec8f87ef8b) |
 | Junior AI Engineer | vertexservicepartners | Charlotte, NC 28211 |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vertexservicepartners/jobs/4517555009) |
 | Security Software Engineer Intern | ServiceNow | Kirkland, Washington, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) |
 | Research Analyst Intern (Economics & Finance) - Summer 2027 | thebrattlegroup | Chicago, Illinois, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4757511005) |
@@ -199,12 +205,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Intern - Data Governance | wgu | Salt Lake City, UT |  | 2026-11-20 | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/external/job/Salt-Lake-City-UT/Intern---Technical-Writing_JR-026370) |
 | Intern - Technical | wgu | Salt Lake City, UT |  | 2026-11-20 | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/external/job/Salt-Lake-City-UT/Intern---Technical_JR-026525) |
 | Legacy Plumbing - Plumbing Apprentice | acehardware | TX - Little Elm |  | 2026-11-20 | [Apply](https://acehardware.wd1.myworkdayjobs.com/en-US/external/job/TX---Little-Elm/Legacy-Plumbing---Plumbing-Apprentice_REQ-35156-1) |
-| Graduate Assistant, Outreach | utaustin | UT MAIN CAMPUS |  | 2026-11-20 | [Apply](https://utaustin.wd1.myworkdayjobs.com/en-US/utstudent/job/UT-MAIN-CAMPUS/Graduate-Assistant--Outreach_R_00050105) |
-| Tool Room Trainee | giorgiglobal | Muncie, Indiana |  | 2026-11-20 | [Apply](https://giorgiglobal.wd3.myworkdayjobs.com/en-US/canpack/job/Muncie-Indiana/Tool-Room-Trainee_R4327) |
-| Army Instructor Jr ROTC | boystown | Omaha, NE |  | 2026-11-20 | [Apply](https://boystown.wd1.myworkdayjobs.com/en-US/boystowncareers/job/Omaha-NE/Army-Instructor-Jr-ROTC_REQ-2026-9742-1) |
-| Delivery Driver Trainee DOT | pbv | 390 Business Park Drive Winston-Salem, NC |  | 2026-11-20 | [Apply](https://pbv.wd503.myworkdayjobs.com/en-US/external/job/390-Business-Park-Drive-Winston-Salem-NC/Delivery-Driver-Trainee-DOT_R-2026-4887) |
-| Delivery Driver Trainee DOT | pbv | 390 Business Park Drive Winston-Salem, NC |  | 2026-11-20 | [Apply](https://pbv.wd503.myworkdayjobs.com/en-US/external/job/390-Business-Park-Drive-Winston-Salem-NC/Delivery-Driver-Trainee-DOT_R-2026-4888) |
-| Kinship Child and Family Services Specialist/Trainee | son | Omaha, NE |  | 2026-11-20 | [Apply](https://son.wd108.myworkdayjobs.com/en-US/nebraskastatecareers/job/Omaha-NE/Kinship-Child-and-Family-Services-Specialist-Trainee_JR2026-00030679) |
 <!-- JOBS_TABLE_END -->
 
 <details>
