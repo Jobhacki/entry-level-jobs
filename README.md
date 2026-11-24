@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>26,696</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>25,581</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-24 04:18 UTC</sub>
+<sub>Snapshot 2026-11-24 08:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,12 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**26,696 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 04:18 UTC.** Apply links go to the employer's career page or hiring system.
+**25,581 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 08:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Program Intern, Dealer Strategy | Pilot Company | Knoxville, TN, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000163383557) |
 | Pharmacy Pre-Grad Intern - WM | Walmart | (USA) KS COLBY 01214 WM SUPERCENTER |  | 2026-11-24 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-KS-COLBY-01214-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2719776-1) |
 | Pharmacy Intern | CVS Health | MA - Boston |  | 2026-11-24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Boston/Pharmacy-Intern_R1113296) |
 | Pharmacy Intern | CVS Health | CT - West Hartford |  | 2026-11-24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---West-Hartford/Pharmacy-Intern_R1113382) |
@@ -100,14 +101,19 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Nursing Assistant Trainee - PT | Sanford Health | GSS MN Blackduck Northern Pines |  | 2026-11-24 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/GSS-MN-Blackduck-Northern-Pines/Nursing-Assistant-Trainee---PT_R-0282026) |
 | 2027 University Graduate - Process Analyst | Adobe | San Jose |  | 2026-11-24 | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Process-Analyst_R173464) |
 | AI-Based Scale & Performance Test Automation Intern | illumio | Sunnyvale, California - HQ |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/illumio/78a9e57d-c213-405b-9cf3-6e68109a4ce7) |
-| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Cleveland, Ohio |  | 2026-11-23 | [Apply](https://jobs.lever.co/aogarciaagency/bb990087-72bb-455a-afe0-d1cf75f6bc18) |
-| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Mableton, Georgia |  | 2026-11-23 | [Apply](https://jobs.lever.co/aogarciaagency/736c2dcc-d380-42c4-97fc-8a8b77c75380) |
-| Remote - Client Relations Manager Trainee | Aogarciaagency | Hamilton, Ohio |  | 2026-11-23 | [Apply](https://jobs.lever.co/aogarciaagency/aafe7e75-1e39-4a1b-9075-142980d5c0b5) |
+| Sales Representative- Entry Level | Bisco Industries | Woodland Hills, CA, United States |  | 2026-11-23 | [Apply](https://jobs.jobvite.com/biscoindustries/job/oLy8AfwL) |
+| TrackingMore R&D Trainee - Full-Stack Engineer (Backend) - Bilingual Mandarin | CWILL | cary, North Carolina, US |  | 2026-11-23 | [Apply](https://apply.workable.com/j/D6136D8314) |
+| Product Engineering Internship | Blueprint | Chicago, Illinois, US |  | 2026-11-23 | [Apply](https://apply.workable.com/j/6C902886A5) |
+| Dental Assistant - Entry Level | aspendental | Sioux Falls, South Dakota |  | 2026-11-23 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Sioux-Falls-South-Dakota/Dental-Assistant---Entry-Level_R2026-014497) |
+| Dental Assistant - Entry Level | aspendental | Sheboygan, Wisconsin |  | 2026-11-23 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Sheboygan-Wisconsin/Dental-Assistant---Entry-Level_R2026-014498) |
+| KIP Spring 2027 - Law Team Intern - Ballotpedia | standtogether | Wisconsin |  | 2026-11-23 | [Apply](https://jobs.lever.co/standtogether/975d8f8c-468f-401f-b072-d2611541bd8c) |
+| KIP Spring 2027 - Ballot Measures Team Intern - Ballotpedia | standtogether | Wisconsin |  | 2026-11-23 | [Apply](https://jobs.lever.co/standtogether/6e28c502-9260-4128-b264-7f9a8e996c50) |
+| Corporate Intern | sprymethods | McLean, VA |  | 2026-11-23 | [Apply](https://jobs.lever.co/sprymethods/5323bd64-c7c2-4833-a9aa-81a77b4c7a87) |
+| 2027 Agronomy Internship at The Lido | dreamgolf | Nekoosa, WI |  | 2026-11-23 | [Apply](https://jobs.lever.co/dreamgolf/36e221a6-e1e4-4126-97c4-f3162893ae80) |
 | Intern, IT Help Desk Level 3, Summer 2027 | lucidmotors | Casa Grande, AZ |  | 2026-11-23 | [Apply](https://lucidmotors.com/careers/search/5290780007?gh_jid=5290780007) |
 | Intern, Automotive Interior Design, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-23 | [Apply](https://lucidmotors.com/careers/search/5290844007?gh_jid=5290844007) |
 | Campus Recruiting Intern (Winter/Spring 2027) | formlabs | Somerville, MA |  | 2026-11-23 | [Apply](https://careers.formlabs.com/job/8413030/apply/?gh_jid=8413030) |
 | School-Based Behavioral Technician Trainee, Behavioral Health | bayada | Waikoloa, HI 96738 / 19.929157254 / -155.80477644 |  | 2026-11-23 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8959510002) |
-| Remote Travel Advisor / Entry Level | destinationknot | Maryland |  | 2026-11-23 | [Apply](https://jobs.lever.co/destinationknot/22a388a4-1e88-49a3-8d38-d51a967358b2) |
 | Sales Trainee | 3dayblindssales | Princeton, NJ |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/3dayblindssales/jobs/8214635003) |
 | Service Technician Trainee | Whaley Foodservice | Richmond, VA, United States |  | 2026-11-23 | [Apply](https://jobs.jobvite.com/whaleyfoodservice/job/oAB8AfwD) |
 | Wearable Devices Engineer Intern | workstream | San Francisco, CA |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/workstream/jobs/6268345004) |
@@ -168,8 +174,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | JR2026528948 Cybersecurity - Information System Security Officer (ISSO) \*\*Sig... | boeing | 2 Locations |  | 2026-11-23 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/JR2026528948-Cybersecurity---Information-System-Security-Officer--ISSO----Sign-on-Bonus-Potential--_JR2026528948) |
 | Grad Intern - Global Medical Program Management (Summer 2027) | amgen | United States - Remote |  | 2026-11-23 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Global-Medical-Program-Management--Summer-2027-_R-261947) |
 | Undergrad Co-op - Operations - Facilities & Engineering (Electrical) (Jan -Mar... | amgen | US - Rhode Island - West Greenwich |  | 2026-11-23 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---Rhode-Island---West-Greenwich/Undergrad-Co-op---Operations---Facilities---Engineering--Electrical---Jan--Mar-2027-_R-262184) |
-| Denture Lab Technician - Digital Trainee | aspendental | Abilene, Texas |  | 2026-11-23 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Abilene-Texas/Denture-Lab-Technician---Digital-Trainee_R2026-014470) |
-| Dental Assistant - Entry Level | aspendental | Olathe, Kansas |  | 2026-11-23 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Olathe-Kansas/Dental-Assistant---Entry-Level_R2026-014473) |
 | Provider Data Management Specialist / Entry Level / Hybrid/Remote Schedule | bilh | 2 Locations |  | 2026-11-23 | [Apply](https://bilh.wd1.myworkdayjobs.com/en-US/external/job/Beth-Israel-Lahey-Health-Performance-Network/Provider-Data-Management-Specialist---Entry-Level---Hybrid-Remote-Schedule_JR104018) |
 | Radiology Intern | Sanford Health | ND, Bismarck |  | 2026-11-23 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/ND-Bismarck/Radiology-Intern_R-0282403) |
 | 2027 University Graduate - Research Scientist | Adobe | San Jose |  | 2026-11-23 | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Research-Scientist_R173584) |
@@ -201,10 +205,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Jr Software Developer | webai | Austin, TX |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/webAI/571ff25a-c3ad-44f5-8f35-f4a7944899df) |
 | Junior Digital Workplace Analyst | deltadentalofnewjerseyinc | New Jersey |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/deltadentalofnewjerseyinc/jobs/4486711009) |
 | 2027 Summer Intern - Software Engineering - 5815 | Shield AI | Dallas, TX, US |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503) |
-| Junior Managers Program – Manufacturing – VM | Bosch Group | Florence, KY, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163274110) |
-| Junior Managers Program – Manufacturing – PS | Bosch Group | Charleston, SC, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163275979) |
-| Junior Managers Program - Finance - Mobility | Bosch Group | Farmington Hills, MI, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163277579) |
-| Graphic Design Intern | championsgroupholdings | Brea, California |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/championsgroupholdings/jobs/5492840008) |
 <!-- JOBS_TABLE_END -->
 
 <details>
