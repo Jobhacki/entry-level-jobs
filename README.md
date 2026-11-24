@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>25,922</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>25,588</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-24 20:18 UTC</sub>
+<sub>Snapshot 2026-11-24 21:40 UTC</sub>
 
 </div>
 
@@ -50,12 +50,36 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**25,922 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 20:18 UTC.** Apply links go to the employer's career page or hiring system.
+**25,588 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 21:40 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Jr Repair Furniture Specialist | Vesta Home | Pembroke Park, Florida, US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/3D4BC40824) |
+| Brokerage Research Intern | colliers | St. Louis Park, Minnesota, United States of America |  | 2026-11-24 | [Apply](https://colliers.wd3.myworkdayjobs.com/en-US/colliers-external-career-site/job/St-Louis-Park-Minnesota-United-States-of-America/Brokerage-Research-Intern_JR18908) |
+| Manager Trainee | jbhunt | Palmer, MA - 24 3rd St |  | 2026-11-24 | [Apply](https://jbhunt.wd501.myworkdayjobs.com/en-US/careers/job/Palmer-MA---24-3rd-St/Manager-Trainee_00653905) |
+| Registered Nurse (RN) - New Graduate ACE - Lourdes Hospital | easyservice | Paducah, KY |  | 2026-11-24 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Paducah-KY/Registered-Nurse--RN----New-Graduate-ACE---Lourdes-Hospital_R293071) |
+| AI Intern | campingworld | Lincolnshire, IL |  | 2026-11-24 | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/jobs/job/Lincolnshire-IL/AI-Intern_26_09088) |
+| District Manager Trainee (Charolette/Lee/Collier Counties) | circlek | Nonstore B049 Tampa FL |  | 2026-11-24 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Nonstore-B049-Tampa-FL/District-Manager-Trainee--Charolette-Lee-Collier-Counties-_R628692) |
+| 2027 Summer Facilities & Reals Estate Technical Engineer Intern - Bachelors (Gl... | amat | Gloucester,MA |  | 2026-11-24 | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/external/job/GloucesterMA/XMLNAME-2027-Summer-Facilities---Reals-Estate-Technical-Engineer-Intern---Bachelors--Gloucester--MA-_R2633688) |
+| Corporate Intern - Government Relations Fellow | Walmart | (USA) WASHINGTON DC GOVERNMENT AFFAIRS DC WASHINGTON Home Office |  | 2026-11-24 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-WASHINGTON-DC-GOVERNMENT-AFFAIRS-DC-WASHINGTON-Home-Office/Corporate-Intern---Government-Relations-Fellow_R-2717814) |
+| Pharmacy Intern | CVS Health | SC - Columbia |  | 2026-11-24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/SC---Columbia/Pharmacy-Intern_R1114102) |
+| Pharmacy Intern | CVS Health | SC - Lexington |  | 2026-11-24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/SC---Lexington/Pharmacy-Intern_R1114109-1) |
+| Pharmacy Intern | CVS Health | SC - Columbia |  | 2026-11-24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/SC---Columbia/Pharmacy-Intern_R1114122-1) |
+| Site Reliability Engineer Co-op | QuEra Computing, Inc. | Boston, MA, USA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5493521008) |
+| Winter Intern, FAM (Food, Fitness and More) | mbooth | New York, NY |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/mbooth/jobs/8961327002) |
+| Policy Counsel Intern | ppfa | New York, NY |  | 2026-11-24 | [Apply](https://jobs.lever.co/ppfa/12c886ad-3766-44b6-a0c8-5223b5f2df36) |
+| Litigation Intern | ppfa | New York, NY |  | 2026-11-24 | [Apply](https://jobs.lever.co/ppfa/8878c5a0-efe3-49ec-a4f6-25587d1ca0d9) |
+| Product Management MBA Intern | Intuitive | Sunnyvale, CA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000163546809) |
+| Junior Software Engineer 817 | Freedom Technology Solutions Group | Annapolis Junction, MD |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5308625007) |
+| Integrations Consultant Intern / Fully Remote USA | HireVue | Sandy, UT, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/HireVue/744000163544902) |
+| Supply Chain Intern, Mechanical & Actuators | mindrobotics | Palo Alto |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/mindrobotics/e2278425-01cf-41fb-a96e-d7a72371acf6) |
+| Supply Chain Intern, Electrical & Electronics | mindrobotics | Palo Alto |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/mindrobotics/f3d84480-20c4-4a97-baec-6793691eae83) |
+| Intern - Clinical Research | dozee | Lake Jackson, Texas |  | 2026-11-24 | [Apply](https://jobs.lever.co/dozee/0e4a7863-9405-4e89-a961-acc4a94cf7bc) |
+| Graduate Environmental Engineer | AECOM | Arlington, VA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000163544869) |
+| Graduate Environmental Scientist | AECOM | Arlington, VA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000163544969) |
+| Graduate Geologist | AECOM | Arlington, VA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000163545079) |
+| Software Engineer, Test Automation Internship (Summer 2027) | apex-technology-inc | Los Angeles | $45/hr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/2268adcb-a0f6-4e12-a206-8f99e048486d) |
+| Mechanical Ground Systems Engineering Internship (Summer 2027) | apex-technology-inc | Los Angeles | $45/hr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/e34724bd-0db2-4433-9352-7ad49d37e627) |
 | Entry- Level Software Engineer | starfish | Huntsville, AL |  | 2026-11-24 | [Apply](https://starfish.wd501.myworkdayjobs.com/en-US/careers/job/Huntsville-AL/Entry--Level-Software-Engineer_R2227) |
 | Data Entry Specialist | javararesearch | Fayetteville, GA |  | 2026-11-24 | [Apply](https://javararesearch.wd12.myworkdayjobs.com/en-US/external_career_site/job/Fayetteville-GA/Data-Entry-Specialist_R-100292) |
 | Intern - AXIS Research Center | axiscapital | University of Illinois |  | 2026-11-24 | [Apply](https://axiscapital.wd1.myworkdayjobs.com/en-US/confidentialaxiscareers/job/University-of-Illinois/Intern---AXIS-Research-Center_REQ06861) |
@@ -98,18 +122,11 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | New Graduate Nurse | freseniusmedicalcare | Four Oaks, NC |  | 2026-11-24 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Four-Oaks-NC/New-Graduate-Nurse_R0279168) |
 | Pharmacy Pre-Grad Intern - WM | Walmart | Milwaukie, OR |  | 2026-11-24 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Milwaukie-OR/Pharmacy-Pre-Grad-Intern---WM_R-2720296) |
 | Pharmacy Pre-Grad Intern - WM | Walmart | (USA) OH TOLEDO 05030 WM SUPERCENTER |  | 2026-11-24 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OH-TOLEDO-05030-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2720736) |
-| Pharmacy Pre-Grad Intern - WM | Walmart | (USA) FL MIAMI GARDENS 03311 WM SUPERCENTER |  | 2026-11-24 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-MIAMI-GARDENS-03311-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2719960) |
 | Developer Technology Intern, AI - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-24 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178) |
 | Radiology Intern | Sanford Health | MI, Iron Mountain |  | 2026-11-24 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/MI-Iron-Mountain/Radiology-Intern_R-0282127-1) |
 | Supply Chain Rotational Graduate Program (Non-Technical) | HP | Spring, Texas, United States of America |  | 2026-11-24 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Supply-Chain-Rotational-Graduate-Program--Non-Technical-_3171473-1) |
 | Supply Chain Rotational Graduate Program (Technical) | HP | Spring, Texas, United States of America |  | 2026-11-24 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Supply-Chain-Rotational-Graduate-Program--Technical-_3171472-1) |
-| Pharmacy Intern | CVS Health | MD - Catonsville |  | 2026-11-24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MD---Catonsville/Pharmacy-Intern_R1113677) |
-| Pharmacy Intern | CVS Health | MD - Baltimore |  | 2026-11-24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MD---Baltimore/Pharmacy-Intern_R1113686) |
-| Pharmacy Intern | CVS Health | MD - Ellicott City |  | 2026-11-24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MD---Ellicott-City/Pharmacy-Intern_R1058256) |
 | Phlebotomist Trainee | Labcorp | Portland OR |  | 2026-11-24 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Portland-OR/Phlebotomist-Trainee_2637164) |
-| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Hastings, Nebraska |  | 2026-11-24 | [Apply](https://jobs.lever.co/aogarciaagency/f6f4601f-00af-4995-9682-60860cac28e2) |
-| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Rogers, Arkansas |  | 2026-11-24 | [Apply](https://jobs.lever.co/aogarciaagency/b0b944f5-28ed-4f3b-9f55-dd009ad309af) |
-| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Rawlins, Wyoming |  | 2026-11-24 | [Apply](https://jobs.lever.co/aogarciaagency/2b0c5bba-3e56-4c88-8267-4afb5f81f992) |
 | Junior Executive Receptionist (Hedge Fund) | spsnorthamerica | Greenwich, Connecticut, United States; New York, New York, United Sta... |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/spsnorthamerica/jobs/5493658008) |
 | Junior Executive Receptionist (Hedge Fund) | spsnorthamerica | New York, New York, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/spsnorthamerica/jobs/5492071008) |
 | Emerging Talent - Industrial Engineering Intern Summer 2027 | senrasystems | Cypress, California, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/senrasystems/jobs/5492275008) |
@@ -138,11 +155,7 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Summer Internship 2027 | Circle Logistics | Fort Wayne, IN, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/CircleLogistics1/3743990017069146) |
 | ENTRY LEVEL - Maintenance Engineer | BoydGaming | Mulvane, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/BoydGaming/3743990017067996) |
 | Junior CNC Operator, Composites | betatechnologiesinc | South Burlington, Vermont, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4465283009) |
-| Architecture Design Intern | AECOM | North Charleston, SC, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000163519389) |
-| Entry-Level Architecture Designer | AECOM | North Charleston, SC, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000163519669) |
-| Traffic Engineering Intern | AECOM | Columbus, OH, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000163534449) |
 | Founder Associate Intern | clera | San Francisco |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/Clera/8ec2bb04-a143-4478-b696-a2c891c88b82) |
-| Production Programmer - Entry Level SQL Developer | datalabusa | Germantown, MD |  | 2026-11-24 | [Apply](https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a) |
 | Sales Trainee | 3dayblindssales | Monroe Township , NJ |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/3dayblindssales/jobs/8215521003) |
 | Operator Technician - Raw/FG - Entry | bdgrowers | Turlock, CA |  | 2026-11-24 | [Apply](https://bdgrowers.wd1.myworkdayjobs.com/en-US/external/job/Turlock-CA/Operator-Technician---Raw-FG---Entry_04762-1) |
 | Project Management Intern | polarsemi | Bloomington, MN, USA |  | 2026-11-24 | [Apply](https://polarsemi.wd501.myworkdayjobs.com/en-US/polar/job/Bloomington-MN-USA/Project-Management-Intern_R3834) |
@@ -192,19 +205,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Assemblies Engineering intern | VeoliaEnvironnementSA | Minnetonka, MN, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163376109) |
 | Back Office Sales Support Intern | VeoliaEnvironnementSA | Woodridge, IL, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163376729) |
 | Program Intern, Energy Settlements | Pilot Company | Houston, TX, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000163379889) |
-| Entry Level Manager (06145) | Domino's | Ashland City, TN, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163345480) |
-| Entry Level Manager (01490) | Domino's | Clarksville, TN, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163347509) |
-| Entry Level Manager (05419) | Domino's | Nashville, TN, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163347749) |
-| Technical Recruiter - New Grad | netic | San Francisco |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/netic/12588fb6-77c3-41fe-b1bf-56f05e00bd8c) |
-| Engineering Intern, Architecture Platform | illumio | Sunnyvale, California - HQ |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293) |
-| Order Entry Specialist | syfanlogistics | Gainesville, GA |  | 2026-11-24 | [Apply](https://syfanlogistics.wd12.myworkdayjobs.com/en-US/syfan/job/Gainesville-GA/Order-Entry-Specialist_JR713) |
-| Business Analytics Intern | badgermeter | US - WI - Milwaukee HQ |  | 2026-11-24 | [Apply](https://badgermeter.wd5.myworkdayjobs.com/en-US/us_careersite/job/US---WI---Milwaukee-HQ/Business-Analytics-Intern_4677) |
-| 2027 Curatorial Spring Intern (U of A MA Student) | awe | Bentonville, AR |  | 2026-11-24 | [Apply](https://awe.wd1.myworkdayjobs.com/en-US/art_and_wellness/job/Bentonville-AR/XMLNAME-2027-Curatorial-Spring-Intern--U-of-A-MA-Student-_JR2559-1) |
-| Purchasing Specialist, Entry | kodiakgas | TX - Calliham |  | 2026-11-24 | [Apply](https://kodiakgas.wd12.myworkdayjobs.com/en-US/kodiakgascareers/job/TX---Calliham/Purchasing-Specialist--Entry_JR3950) |
-| Innovation Intern | ameren | St. Louis, MO |  | 2026-11-24 | [Apply](https://ameren.wd1.myworkdayjobs.com/en-US/external/job/St-Louis-MO/Innovation-Intern_033797-1) |
-| Knitwear Design Intern (Spring 2027) | lifung | New York |  | 2026-11-24 | [Apply](https://lifung.wd3.myworkdayjobs.com/en-US/funggroup/job/New-York/Knitwear-Design-Intern--Spring-2027-_V98576) |
-| Business Analyst Graduate Summer Intern | centene | Remote-MO |  | 2026-11-24 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Graduate-Summer-Intern_1667776) |
-| Community Impact Data & Reporting Intern (Undergraduate - Summer) | centene | 49 Locations |  | 2026-11-24 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Intern--Undergraduate---Summer-_1674027) |
 <!-- JOBS_TABLE_END -->
 
 <details>
@@ -236,7 +236,7 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 </div>
 
-Install the free JobHacki Chrome extension and sign in with a free JobHacki account to browse all 1.4M+ listings. Explore the full JobHacki directory whenever you're ready.
+Install the free JobHacki Chrome extension and sign in with a free JobHacki account to browse all 1.5M+ listings. Explore the full JobHacki directory whenever you're ready.
 
 ---
 
