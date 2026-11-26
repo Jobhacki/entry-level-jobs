@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>26,081</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>27,679</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 04:17 UTC</sub>
+<sub>Snapshot 2026-11-26 08:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,15 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**26,081 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**27,679 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 08:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Pharmacy Underwriting Summer Internship Program | cigna | 2 Locations |  | 2026-11-26 | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Morris-Plains-NJ/Pharmacy-Underwriting-Summer-Internship-Program_26009219) |
+| Human Resources Intern - Airport Warehouse | amcor | RPSNA Evansville Airport Warehouse (AW) IN |  | 2026-11-26 | [Apply](https://amcor.wd5.myworkdayjobs.com/en-US/amcor_external_career_site/job/RPSNA-Evansville-Airport-Warehouse-AW-IN/Human-Resources-Intern---Airport-Warehouse_REQ_98845) |
+| Supply Chain Engineer Internship - Summer 2027 | vital-lyfe | Los Angeles - Greater Area | $28-30/hr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/vital-lyfe/0a604bb1-8230-45fa-8f65-5101e5774a8c) |
+| Marketing Intern - Summer 2027 | vital-lyfe | Los Angeles - Greater Area | $26-30/hr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/vital-lyfe/a3cb1fe6-d67b-4742-a7c1-a416eb021003) |
 | Grad Intern - Global Medical Affairs Thoracic Oncology (Summer 2027) | amgen | United States - Remote |  | 2026-11-26 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Global-Medical-Affairs-Thoracic-Oncology--Summer-2027-_R-261965) |
 | Insomniac Events - Paid Spring Music Group A&R Intern | livenation | Calabasas, CA, USA |  | 2026-11-26 | [Apply](https://livenation.wd503.myworkdayjobs.com/en-US/lnexternalsite/job/Calabasas-CA-USA/Insomniac-Events---Paid-Spring-Music-Group-A-R-Intern_JR-94557-3) |
 | Pharmacy Intern - Grad | CVS Health | DC - Washington |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DC---Washington/Pharmacy-Intern---Grad_R1115407) |
@@ -71,11 +75,9 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | HP SalesEDGE Rotational Internship Job Description | HP | Rio Rancho, New Mexico, United States of America |  | 2026-11-26 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Rio-Rancho-New-Mexico-United-States-of-America/HP-SalesEDGE-Rotational-Internship-Job-Description_3169060) |
 | Pharmacy Intern - Grad | CVS Health | DE - Wilmington |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DE---Wilmington/Pharmacy-Intern---Grad_R1115196) |
 | Pharmacy Intern | CVS Health | DE - Claymont |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DE---Claymont/Pharmacy-Intern_R1115207) |
+| Environmental Scientist - Entry Level | Handex Consulting & Remediation | Jackson, NJ |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690090) |
 | Internship | Children's Hope Alliance | Statesville, NC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4287487) |
 | Systems Administrator Intern | Quality Vision International Inc. | Rochester, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694546) |
-| Software Engineering Summer Intern | Best Egg | Wilmington, DE |  | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392) |
-| Recovery Operations & Project Coordination Summer Intern | Best Egg | Wilmington, DE |  | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/4fed5e43-6d54-474d-8786-f1030937c58e) |
-| Controls Summer Internship | Best Egg | Wilmington, DE |  | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/553c146f-2954-40aa-aabe-c8c8befe90d0) |
 | Product Marketing MBA Intern (Contract) | heygen | Los Angeles, San Francisco |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/heygen/jobs/5309913007) |
 | Junior Copywriter | veterinaryemergencygroupst | VEG Headquarters, White Plains, NY |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6264656004?gh_jid=6264656004) |
 | Quality Intern | VeoliaEnvironnementSA | Minnetonka, MN, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163761609) |
@@ -203,8 +205,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Program Management Office Intern | fortitudegroupholdingsllc | Nashville |  | 2026-11-25 | [Apply](https://app.careerpuck.com/job-board/fortitudegroupholdingsllc/job/5308211007?gh_jid=5308211007) |
 | Health Information Specialist I-Entry Level-8924 | datavant2 | North Carolina, South Carolina, Tennessee |  | 2026-11-25 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5486595008) |
 | Health Information specialist I-Entry Level-8851 | datavant2 | Mississippi, Wisconsin |  | 2026-11-25 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5480079008) |
-| Management Trainee | AlphabeInsightInc | Peoria, IL, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163709701) |
-| New Grad - Engineering (full-time) | eightsleep | New York City |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/eightsleep/1ea47d9f-b325-4fbb-a59e-f13646ad092c) |
 <!-- JOBS_TABLE_END -->
 
 <details>
