@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>25,853</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>26,081</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 00:19 UTC</sub>
+<sub>Snapshot 2026-11-26 04:17 UTC</sub>
 
 </div>
 
@@ -50,18 +50,33 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**25,853 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 00:19 UTC.** Apply links go to the employer's career page or hiring system.
+**26,081 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 04:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Grad Intern - Global Medical Affairs Thoracic Oncology (Summer 2027) | amgen | United States - Remote |  | 2026-11-26 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Global-Medical-Affairs-Thoracic-Oncology--Summer-2027-_R-261965) |
+| Insomniac Events - Paid Spring Music Group A&R Intern | livenation | Calabasas, CA, USA |  | 2026-11-26 | [Apply](https://livenation.wd503.myworkdayjobs.com/en-US/lnexternalsite/job/Calabasas-CA-USA/Insomniac-Events---Paid-Spring-Music-Group-A-R-Intern_JR-94557-3) |
+| Pharmacy Intern - Grad | CVS Health | DC - Washington |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DC---Washington/Pharmacy-Intern---Grad_R1115407) |
+| Entry Level Manager (06158) | Domino's | Portland, TN, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163780829) |
+| Entry Level Manager (06329) | Domino's | Chapel Hill, TN, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163784307) |
+| Entry Level Manager (06190) | Domino's | Mount Juliet, TN, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163785409) |
+| Software Engineer, Core Systems (New Grad, 2027) | Scout AI | Sunnyvale, CA | $135k-190k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897) |
+| AI Engineer, AI/ML and Agent Harnessing (New Grad, 2027) | Scout AI | Sunnyvale, CA | $135k-190k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed) |
+| Marketing Intern, North America (B2B Events & Growth) | meshy | Bay Area Office |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/meshy/0b471661-131a-4a91-9ae0-5a99bef62591) |
+| Junior Quality Engineer | Epia Neuro | Alameda HQ | $75k-95k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/epianeuro/c3419190-2c51-4434-94ee-8f67c8830cb9) |
 | Internship-Timing and Energy Software | asml | San Diego, CA, USA |  | 2026-11-26 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship-Timing-and-Energy-Software_J-00358478) |
 | Student Co-op, Outpatient Rehabilitation (Winthrop Clinic) | bmc | Boston |  | 2026-11-26 | [Apply](https://bmc.wd1.myworkdayjobs.com/en-US/bmc/job/Boston/Student-Co-op--Outpatient-Rehabilitation--Winthrop-Clinic-_52309) |
 | Project Specialist I (Intern) - United States | cisco | RTP, North Carolina, US |  | 2026-11-26 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Project-Specialist-I--Intern----United-States_2029711-1) |
 | HP SalesEDGE Rotational Internship Job Description | HP | Rio Rancho, New Mexico, United States of America |  | 2026-11-26 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Rio-Rancho-New-Mexico-United-States-of-America/HP-SalesEDGE-Rotational-Internship-Job-Description_3169060) |
 | Pharmacy Intern - Grad | CVS Health | DE - Wilmington |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DE---Wilmington/Pharmacy-Intern---Grad_R1115196) |
 | Pharmacy Intern | CVS Health | DE - Claymont |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DE---Claymont/Pharmacy-Intern_R1115207) |
-| Pharmacy Intern | CVS Health | DE - Bear |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DE---Bear/Pharmacy-Intern_R1058160) |
+| Internship | Children's Hope Alliance | Statesville, NC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4287487) |
+| Systems Administrator Intern | Quality Vision International Inc. | Rochester, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694546) |
+| Software Engineering Summer Intern | Best Egg | Wilmington, DE |  | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392) |
+| Recovery Operations & Project Coordination Summer Intern | Best Egg | Wilmington, DE |  | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/4fed5e43-6d54-474d-8786-f1030937c58e) |
+| Controls Summer Internship | Best Egg | Wilmington, DE |  | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/553c146f-2954-40aa-aabe-c8c8befe90d0) |
+| Product Marketing MBA Intern (Contract) | heygen | Los Angeles, San Francisco |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/heygen/jobs/5309913007) |
 | Junior Copywriter | veterinaryemergencygroupst | VEG Headquarters, White Plains, NY |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6264656004?gh_jid=6264656004) |
 | Quality Intern | VeoliaEnvironnementSA | Minnetonka, MN, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163761609) |
 | Internship – Technical Product Management | QuEra Computing, Inc. | Boston, MA, USA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008) |
@@ -105,6 +120,7 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | New Graduate RN Residency, Cardiac/ Medical IMCU, Nights (March 2027) | bmc | Boston |  | 2026-11-25 | [Apply](https://bmc.wd1.myworkdayjobs.com/en-US/bmc/job/Boston/New-Graduate-RN-Residency--Cardiac--Medical-IMCU--Nights--March-2027-_51753) |
 | Security Engineer I (Intern) - United States | cisco | RTP, North Carolina, US |  | 2026-11-25 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885) |
 | Additive Machine Programmer I (Early Career) | blueorigin | Greater Seattle Area |  | 2026-11-25 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Additive-Machine-Programmer-I--Early-Career-_R74547) |
+| Entry Level or Associate Facilities Plant Maintenance Specialist | boeing | 2 Locations |  | 2026-11-25 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Kirtland-AFB-NM/Entry-Level-or-Associate-Facilities-Plant-Maintenance-Specialist_JR2026529370-1) |
 | Dental Assistant - Entry Level | aspendental | Waterloo, Iowa |  | 2026-11-25 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Waterloo-Iowa/Dental-Assistant---Entry-Level_R2026-014573-1) |
 | Dental Assistant - Entry Level | aspendental | Winchester, Virginia |  | 2026-11-25 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Winchester-Virginia/Dental-Assistant---Entry-Level_R2026-014576) |
 | Summer Internship - Finance Services & Transformation | ag | Herndon Area, VA |  | 2026-11-25 | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Herndon-Area-VA/Summer-Internship---Finance-Services---Transformation_JR10459120) |
@@ -139,9 +155,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Apprentice Electrician - BAS Installations | kbs | Salt Lake City, UT |  | 2026-11-25 | [Apply](https://kelsobuildingservices.com/careers/?gh_jid=5494734008) |
 | Accounting Intern | hyliion | Austin, Texas, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/hyliion/jobs/6271433004) |
 | Arboretum Apprentice | Harvard University | Boston, MA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017095884) |
-| Assistant Manager Trainee (7044 - Geiger Heights/Medical Lake) | Domino's | Spokane, WA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163745055) |
-| Assistant Manager Trainee (7192 - Airway Heights/FAFB) | Domino's | Airway Heights, WA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163746997) |
-| Assistant Manager Trainee (7193-Spokane Valley) | Domino's | Spokane Valley, WA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163747299) |
 | Digital Marketing Intern - Technical AI & Automation | eulerity | New York, NY |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4732314006) |
 | Junior Plumber | ensco | Pueblo, Colorado, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/ensco/jobs/5493879008) |
 | Health Information Specialist I-Entry Level-8941 | datavant2 | Alabama, South Carolina |  | 2026-11-25 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5489593008) |
@@ -171,6 +184,8 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Safety Internship Program - North Carolina & Virginia Region 2026 – 2027 | walshgroup | 2 Locations |  | 2026-11-25 | [Apply](https://walshgroup.wd12.myworkdayjobs.com/en-US/walshgroup/job/NC_Asheville_219151/Safety-Internship-Program---North-Carolina---Virginia-Region-2026---2027_JR17220) |
 | Safety Internship Program - New Jersey Region 2026 – 2027 | walshgroup | NJ\_Little Falls\_825079 |  | 2026-11-25 | [Apply](https://walshgroup.wd12.myworkdayjobs.com/en-US/walshgroup/job/NJ_Little-Falls_825079/Safety-Internship-Program---New-Jersey-Region-2026---2027_JR17222) |
 | Software & Controls Engineering Intern - Summer | carrier | CAN05: CCS-Charlotte, 5900 Northwoods Business Parkway, Charlotte, NC... |  | 2026-11-25 | [Apply](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN05-CCS-Charlotte-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Software---Controls-Engineering-Intern---Summer_30222979) |
+| Manufacturing Assembler (Entry Level, Mid-Level) | boeing | USA - Smithfield, PA |  | 2026-11-25 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Smithfield-PA/Manufacturing-Assembler--Entry-Level--Mid-Level-_JR2026528063-1) |
+| Undergrad Intern – R&D Local Safety Officer (Summer 2027) | amgen | United States - Remote |  | 2026-11-25 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---R-D-Local-Safety-Officer--Summer-2027-_R-261779) |
 | Denture Lab Technician - Digital Trainee | aspendental | Chester, Virginia |  | 2026-11-25 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Chester-Virginia/Denture-Lab-Technician---Digital-Trainee_R2026-014570) |
 | New Graduate Nurse | freseniusmedicalcare | Evansville, IN |  | 2026-11-25 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Evansville-IN/New-Graduate-Nurse_R0279292) |
 | New Graduate Nurse | freseniusmedicalcare | Louisville, KY |  | 2026-11-25 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Louisville-KY/New-Graduate-Nurse_R0279294) |
@@ -190,21 +205,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Health Information specialist I-Entry Level-8851 | datavant2 | Mississippi, Wisconsin |  | 2026-11-25 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5480079008) |
 | Management Trainee | AlphabeInsightInc | Peoria, IL, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163709701) |
 | New Grad - Engineering (full-time) | eightsleep | New York City |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/eightsleep/1ea47d9f-b325-4fbb-a59e-f13646ad092c) |
-| Early Career Structural Engineer | WSP | Seattle, WA, United States |  | 2026-11-25 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/100056) |
-| Graduate Medical Education Program Specialist | City of New York | New York City, NY, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017084356) |
-| Concrete Enforcement Engineering Intern | City of New York | New York, NY, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017084406) |
-| Construction Safety Intern | City of New York | New York, NY, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017084291) |
-| 2027 Mechanical Systems Graduate Intern | aero | El Segundo, CA |  | 2026-11-25 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Mechanical-Systems-Graduate-Intern_R017301) |
-| 2027 Explosives Systems Undergraduate Intern | aero | El Segundo, CA |  | 2026-11-25 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Explosives-Systems-Undergraduate-Intern_R017304) |
-| Accounting and Finance Intern | bannerhealth | Remote Arizona |  | 2026-11-25 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/Remote-Arizona/Accounting-and-Finance-Intern_R4458595) |
-| Software Engineering Intern, Simulation Technology - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-25 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531) |
-| Universal Studios Hollywood, Technical Services, Mechanical Engineering Interns... | NBCUniversal | Universal City, CALIFORNIA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163583264) |
-| Universal Studios Hollywood, Food & Beverage, Food Distribution Center Internsh... | NBCUniversal | Universal City, CALIFORNIA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163600599) |
-| Universal Studios Hollywood, Food & Beverage, Food Quality & Safety Internship... | NBCUniversal | Universal City, CALIFORNIA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163601600) |
-| Junior Engineer (Civil) (5201) - Citywide (Eligible List ID # C00496) | City and County of San Francisco | San Francisco, CA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017079856) |
-| Junior Engineer (Electrical) (5201) - Citywide - (Eligible List ID # C00497) | City and County of San Francisco | San Francisco, CA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017079956) |
-| Junior Engineer (Environmental) (5201) - Citywide (Eligible List ID # C00498) | City and County of San Francisco | San Francisco, CA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080006) |
-| Electrical Engineering Intern | bloomenergy | San Jose, California |  | 2026-11-25 | [Apply](https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/San-Jose-California/Electrical-Engineering-Intern_JR-25623) |
 <!-- JOBS_TABLE_END -->
 
 <details>
