@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-entry-level-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-entry-level-jobs-light.svg"><img alt="Entry-level jobs: JobHacki job list, last updated on Nov 26, 2026" src="assets/dist/hero-entry-level-jobs-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-entry-level-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-entry-level-jobs-light.svg"><img alt="Entry-level jobs: JobHacki job list, last updated on Nov 27, 2026" src="assets/dist/hero-entry-level-jobs-dark.svg" width="100%"></picture>
 
 <a href="#open-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/btn-primary-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/btn-primary-light.svg"><img alt="See the jobs" src="assets/dist/btn-primary-dark.svg" width="340"></picture></a>
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>27,769</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>27,669</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 20:19 UTC</sub>
+<sub>Snapshot 2026-11-27 00:18 UTC</sub>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 **Hi, I'm Sophia, JobHacki's AI assistant. Pick a list, inspect a role, and follow its employer link.**
 
-Looking for your first job or starting your career? This list is a fresh slice of entry level jobs taken from employers' own hiring systems, last updated on Nov 26, 2026.
+Looking for your first job or starting your career? This list is a fresh slice of entry level jobs taken from employers' own hiring systems, last updated on Nov 27, 2026.
 
 [Back to all 12 lists](https://github.com/Jobhacki/jobs)
 
@@ -50,19 +50,17 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**27,769 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 20:19 UTC.** Apply links go to the employer's career page or hiring system.
+**27,669 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 00:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Business and Process Analyst (New or Recent Graduate Opportunity) - Immediate S... | bmo | Chicago, IL, USA |  | 2026-11-27 | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Chicago-IL-USA/Business-and-Process-Analyst--New-or-Recent-Graduate-Opportunity-----Immediate-Start-Date_R260031118) |
 | Graduate Civil/Geotechnical Engineer | slrconsulting | 4 Locations |  | 2026-11-26 | [Apply](https://slrconsulting.wd103.myworkdayjobs.com/en-US/slrcareers/job/Denver-Colorado-USA/Graduate-Civil-Geotechnical-Engineer_JR102839) |
 | GTS - Junior FSE - Control Systems | bakerhughes | AR-NEUQUEN-BENU MUSA 1154 |  | 2026-11-26 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/AR-NEUQUEN-BENU-MUSA-1154/GTS---Junior-FSE---Control-Systems_R172960) |
 | (USA) Coach/Ops Mgr Trainee | Walmart | (USA) TN KNOXVILLE 02310 WM SUPERCENTER |  | 2026-11-26 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TN-KNOXVILLE-02310-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2722490) |
 | Laboratory Technician, Jr | SGS | Point of Rocks, Wyoming, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/SGS/744000163921768) |
-| Instructional Designer Intern | lucidmotors | Amsterdam, NH |  | 2026-11-26 | [Apply](https://lucidmotors.com/careers/search/5306676007?gh_jid=5306676007) |
 | HEOR Intern | Intuitive | Sunnyvale, CA, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000163908429) |
-| Sales Strategy, Planning & Analytics Intern | lucidmotors | Amsterdam, NH |  | 2026-11-26 | [Apply](https://lucidmotors.com/careers/search/5306856007?gh_jid=5306856007) |
-| Salesforce Engineer Intern | lucidmotors | Amsterdam, NH |  | 2026-11-26 | [Apply](https://lucidmotors.com/careers/search/5306844007?gh_jid=5306844007) |
 | ENTRY LEVEL - Maintenance Engineer | BoydGaming | Mulvane, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/BoydGaming/3743990017106296) |
 | Product Engineer Intern, Mobile | clera | United States |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Clera/dc18d62b-baf7-4cc1-8bda-7f8985fe10de) |
 | Junior Sales Representative | D.R. Horton | Overland Park, KS, US |  | 2026-11-26 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605844&lang=en) |
@@ -91,10 +89,10 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | HP SalesEDGE Rotational Internship Job Description | HP | Rio Rancho, New Mexico, United States of America |  | 2026-11-26 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Rio-Rancho-New-Mexico-United-States-of-America/HP-SalesEDGE-Rotational-Internship-Job-Description_3169060) |
 | Pharmacy Intern - Grad | CVS Health | DE - Wilmington |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DE---Wilmington/Pharmacy-Intern---Grad_R1115196) |
 | Pharmacy Intern | CVS Health | DE - Claymont |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DE---Claymont/Pharmacy-Intern_R1115207) |
+| Counselor Trainee/Counselor | BAART Programs | Baltimore, MD, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/baart-programs/job/otU8AfwP) |
+| Entry Level Sales Representative | Butler Machinery Company | Chadron, NE, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=32fc7bc7-04a1-44c6-9995-3698d2c65cc6&ccId=19000101_000001&jobId=591018&lang=en_US&source=CC2) |
 | Junior Operations Research Analyst | AVER | Vienna, VA, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/avercareers/job/oDe9Bfwl) |
 | Junior Digital Graphic Designer | Maxxima | Hauppauge, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694207) |
-| Entry Level Technician | Campers Inn RV and | Campers Inn of Atlanta Stone MTN, Tucker, GA, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1a4baf7a-1837-4d5b-a378-2e0865aece76&ccId=19000101_000001&jobId=609282&lang=en_US&source=CC2) |
-| US - HR Operations Intern | AIRS Medical Inc | Schaumburg, Illinois, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/720BFFB9EA) |
 | Mechanical Engineering Intern - Buildings (Summer 2027) | Stantec | Seattle, WA, United States |  | 2026-11-25 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009026) |
 | Electrical Engineering Intern - Buildings (Summer 2027) | Stantec | Seattle, WA, United States |  | 2026-11-25 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009024) |
 | Electrical Engineering Intern - Buildings (Summer 2027) | Stantec | Lynnwood, WA, United States |  | 2026-11-25 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009013) |
@@ -121,12 +119,11 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Environmental Scientist - Entry Level | Handex Consulting & Remediation | Jackson, NJ |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690090) |
 | Internship | Children's Hope Alliance | Statesville, NC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4287487) |
 | Systems Administrator Intern | Quality Vision International Inc. | Rochester, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694546) |
-| Software Engineering Summer Intern | Best Egg | Wilmington, DE |  | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392) |
-| Recovery Operations & Project Coordination Summer Intern | Best Egg | Wilmington, DE | $24/hr | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/4fed5e43-6d54-474d-8786-f1030937c58e) |
-| Controls Summer Internship | Best Egg | Wilmington, DE | $24/hr | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/553c146f-2954-40aa-aabe-c8c8befe90d0) |
 | Product Marketing MBA Intern (Contract) | heygen | Los Angeles, San Francisco |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/heygen/jobs/5309913007) |
 | Junior Copywriter | veterinaryemergencygroupst | VEG Headquarters, White Plains, NY |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6264656004?gh_jid=6264656004) |
 | Quality Intern | VeoliaEnvironnementSA | Minnetonka, MN, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163761609) |
+| Internship – Technical Product Management | QuEra Computing, Inc. | Boston, MA, USA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008) |
+| Internship – Data Management | QuEra Computing, Inc. | Boston, MA, USA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008) |
 | Summer 2027 Positioning Systems Internship | pacificfusion | San Leandro, CA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4522155009) |
 | Sales Trainee | RedBull | Louisville, KY, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163759609) |
 | Software Engineering Internship - Summer 2027 | opensesame | Remote |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418272?gh_jid=8418272) |
@@ -205,6 +202,9 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Junior Plumber | ensco | Pueblo, Colorado, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/ensco/jobs/5493879008) |
 | Health Information Specialist I-Entry Level-8941 | datavant2 | Alabama, South Carolina |  | 2026-11-25 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5489593008) |
 | Software Engineering (Engineering Productivity) Intern | xona-space | Burlingame, California | $40-45/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab) |
+| Product Legal Intern (San Francisco) | Superhuman | Hub - San Francisco |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/67f2ea53-e05d-4924-81b7-96c928d29c45) |
+| Commercial Legal Intern (New York) | Superhuman | Hub - New York |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/27e71e6d-71a3-439d-8c1a-d918f6fb4917) |
+| New Grad - Business Functions (internship) | eightsleep | New York City |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/eightsleep/2db07e1f-ef43-4efa-852d-ac22b11426d0) |
 <!-- JOBS_TABLE_END -->
 
 <details>
