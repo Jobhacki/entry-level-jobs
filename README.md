@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>27,718</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>28,293</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 08:17 UTC</sub>
+<sub>Snapshot 2026-11-27 12:17 UTC</sub>
 
 </div>
 
@@ -50,16 +50,21 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**27,718 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 08:17 UTC.** Apply links go to the employer's career page or hiring system.
+**28,293 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 12:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Contracts & Financial Operations Intern | Arlington County VA | Arlington, VA, United States |  | 2026-11-27 | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1944) |
+| Graduate General Management - US | Rotork1 | Houston, TX, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/Rotork1/744000164012180) |
 | Trainee - SCM | piramalpharma | Ennore, TN |  | 2026-11-27 | [Apply](https://piramalpharma.wd102.myworkdayjobs.com/en-US/piramal_external_careers/job/Ennore-TN/Trainee---SCM_R00005099) |
 | Manager Trainee | jbhunt | York, PA - Susquehanna |  | 2026-11-27 | [Apply](https://jbhunt.wd501.myworkdayjobs.com/en-US/careers/job/York-PA---Susquehanna/Manager-Trainee_00653856) |
 | Assistant Manager Trainee (7184 - Lower South Hill) | Domino's | Spokane, WA, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163956329) |
 | Business and Process Analyst (New or Recent Graduate Opportunity) - Immediate S... | bmo | Chicago, IL, USA |  | 2026-11-27 | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Chicago-IL-USA/Business-and-Process-Analyst--New-or-Recent-Graduate-Opportunity-----Immediate-Start-Date_R260031118) |
-| Intern, Global Programming | ADP employer 4ab5cf12 | Santa Monica, CA, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4ab5cf12-22e4-443e-947d-24b517b6ad82&ccId=19000101_000001&jobId=600551&lang=en_US&source=CC2) |
+| Environmental Science Intern | GHD | DALLAS, TX, United States |  | 2026-11-26 | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29579) |
+| Remote Data Entry Clerk - Part Time | usasurveyjob | Jackson, Mississippi |  | 2026-11-26 | [Apply](https://jobs.lever.co/usasurveyjob/daf629ec-def9-4101-9b32-a30584f9984b) |
+| Remote Data Entry Clerk - Part Time | usasurveyjob | Manchester, New Hampshire |  | 2026-11-26 | [Apply](https://jobs.lever.co/usasurveyjob/d8fed148-39a8-4a0f-ae60-f88163aed47c) |
+| Remote Data Entry Clerk - Part Time | usasurveyjob | Sunnyvale, California |  | 2026-11-26 | [Apply](https://jobs.lever.co/usasurveyjob/b79c2842-c3f9-489d-991f-66e261f3dbde) |
 | AI Graduate (On-Site) | CameraMatics | Austin, United States |  | 2026-11-26 | [Apply](https://cameramatics-1639649453.teamtailor.com/jobs/8799822-ai-graduate-on-site) |
 | Graduate Civil/Geotechnical Engineer | slrconsulting | 4 Locations |  | 2026-11-26 | [Apply](https://slrconsulting.wd103.myworkdayjobs.com/en-US/slrcareers/job/Denver-Colorado-USA/Graduate-Civil-Geotechnical-Engineer_JR102839) |
 | GTS - Junior FSE - Control Systems | bakerhughes | AR-NEUQUEN-BENU MUSA 1154 |  | 2026-11-26 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/AR-NEUQUEN-BENU-MUSA-1154/GTS---Junior-FSE---Control-Systems_R172960) |
@@ -96,10 +101,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | HP SalesEDGE Rotational Internship Job Description | HP | Rio Rancho, New Mexico, United States of America |  | 2026-11-26 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Rio-Rancho-New-Mexico-United-States-of-America/HP-SalesEDGE-Rotational-Internship-Job-Description_3169060) |
 | Pharmacy Intern - Grad | CVS Health | DE - Wilmington |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DE---Wilmington/Pharmacy-Intern---Grad_R1115196) |
 | Pharmacy Intern | CVS Health | DE - Claymont |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DE---Claymont/Pharmacy-Intern_R1115207) |
-| Data Analyst Internship | ConnectPrep | Washington, District of Columbia, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/9F465A2E1A) |
-| Supply Chain Intern | Digital Control Inc. | Kent, Washington, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/AA2CFB51F0) |
-| Software Engineering Intern | Digital Control Inc. | Kent, Washington, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/AB9A181560) |
-| Quality Control Intern | Digital Control Inc. | Kent, Washington, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/A481153EA8) |
 | Graphic Designer - Intern | United States Bowling Congress | Arlington, TX, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/bowl/job/oYExkfwd) |
 | Sales Representative- Entry Level | Bisco Industries | Wallingford, CT, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/biscoindustries/job/oEf9Bfwn) |
 | Counselor Trainee/Counselor | BAART Programs | Baltimore, MD, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/baart-programs/job/otU8AfwP) |
@@ -131,9 +132,14 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Environmental Scientist - Entry Level | Handex Consulting & Remediation | Jackson, NJ |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690090) |
 | Internship | Children's Hope Alliance | Statesville, NC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4287487) |
 | Systems Administrator Intern | Quality Vision International Inc. | Rochester, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694546) |
+| Software Engineering Summer Intern | Best Egg | Wilmington, DE |  | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392) |
+| Recovery Operations & Project Coordination Summer Intern | Best Egg | Wilmington, DE | $24/hr | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/4fed5e43-6d54-474d-8786-f1030937c58e) |
+| Controls Summer Internship | Best Egg | Wilmington, DE | $24/hr | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/553c146f-2954-40aa-aabe-c8c8befe90d0) |
 | Product Marketing MBA Intern (Contract) | heygen | Los Angeles, San Francisco |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/heygen/jobs/5309913007) |
 | Junior Copywriter | veterinaryemergencygroupst | VEG Headquarters, White Plains, NY |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6264656004?gh_jid=6264656004) |
 | Quality Intern | VeoliaEnvironnementSA | Minnetonka, MN, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163761609) |
+| Internship – Technical Product Management | QuEra Computing, Inc. | Boston, MA, USA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008) |
+| Internship – Data Management | QuEra Computing, Inc. | Boston, MA, USA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008) |
 | Summer 2027 Positioning Systems Internship | pacificfusion | San Leandro, CA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4522155009) |
 | Sales Trainee | RedBull | Louisville, KY, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163759609) |
 | Software Engineering Internship - Summer 2027 | opensesame | Remote |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418272?gh_jid=8418272) |
@@ -199,12 +205,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Physical Design Engineer Intern | sambanovasystems | Austin, Texas, United States; San Jose, California, United States |  | 2026-11-25 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004) |
 | Customer Reliability Engineer (Entry level) | Smiths Group | Pasadena, TX, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000163724880) |
 | Sales Trainee | RedBull | Arlington Heights, IL, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163720652) |
-| Sales Trainee | RedBull | VAN NUYS, CA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163728079) |
-| Entry-Level Field Geologist | olsson | La Vista, NE; Lincoln, NE; Oklahoma City, OK; Olathe, KS; Tempe, AZ |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5494610008) |
-| Retail General Manager - Trainee | Pilot Company | Evanston, WY, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000163741289) |
-| Marketing Assistant Intern | lumosassociates | Reno, Nevada |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/lumosassociates/jobs/5309684007) |
-| Firmware Intern – Summer 2027 | lightmatter | Boston, MA |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008) |
-| Apprentice Electrician - BAS Installations | kbs | Phoenix, AZ |  | 2026-11-25 | [Apply](https://kelsobuildingservices.com/careers/?gh_jid=5494721008) |
 <!-- JOBS_TABLE_END -->
 
 <details>
