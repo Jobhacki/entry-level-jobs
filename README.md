@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>27,504</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>28,026</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 16:17 UTC</sub>
+<sub>Snapshot 2026-11-27 20:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,23 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**27,504 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 16:17 UTC.** Apply links go to the employer's career page or hiring system.
+**28,026 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 20:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Manager Trainee | towerloan | Tuscaloosa AL |  | 2026-11-27 | [Apply](https://towerloan.wd12.myworkdayjobs.com/en-US/tower_loan_careers/job/Tuscaloosa-AL/Manager-Trainee_JR2449-2) |
+| Manager Trainee | towerloan | Greenville MS |  | 2026-11-27 | [Apply](https://towerloan.wd12.myworkdayjobs.com/en-US/tower_loan_careers/job/Greenville-MS/Manager-Trainee_JR2456) |
+| Tax Jr. Analyst | bacardi | Escazu, San Jose |  | 2026-11-27 | [Apply](https://bacardi.wd3.myworkdayjobs.com/en-US/jobs_bacardi/job/Escazu-San-Jose/Tax-Jr-Analyst_R26_02213-1) |
+| Dental Assistant - Entry Level | aspendental | Fayetteville, Arkansas |  | 2026-11-27 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Fayetteville-Arkansas/Dental-Assistant---Entry-Level_R2026-014604) |
+| Billing Analyst, Junior | bah | 2 Locations |  | 2026-11-27 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Billing-Analyst--Junior_R0254334) |
+| (USA) Pharmacy Pre-Grad Intern - WM - $25,000 Sign On Bonus (2027 Grad Sign On... | Walmart | (USA) OH ATHENS 03486 WM SUPERCENTER |  | 2026-11-27 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OH-ATHENS-03486-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2721922-1) |
+| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Joliet, Illinois |  | 2026-11-27 | [Apply](https://jobs.lever.co/aogarciaagency/8ad35c3a-3fc0-4f05-bd9d-eb0673a06737) |
+| Work From Home - Benefits Team Supervisor Trainee | Aogarciaagency | Medford, Oregon |  | 2026-11-27 | [Apply](https://jobs.lever.co/aogarciaagency/7646dc1c-dbbf-4185-b9c1-bf55d2c85c8e) |
+| Remote - Client Relations Manager Trainee | Aogarciaagency | Bloomington, Illinois |  | 2026-11-27 | [Apply](https://jobs.lever.co/aogarciaagency/7d7c14ba-43ee-4f4e-9f29-abfa30c560f5) |
+| Physical Therapist- New Grad PT Home Health | bayada | Burlington, VT 05401 / 44.476542622 / -73.209862091 |  | 2026-11-27 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8964314002) |
+| Physical Therapist- New Grad PT - Home Health | bayada | Lebanon, NH 03766 / 43.644564769 / -72.247284894 |  | 2026-11-27 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8964317002) |
+| Physical Therapist- New Grad PT - Home Health | bayada | Nashua, NH 03060 / 42.743827445 / -71.460572965 |  | 2026-11-27 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8964318002) |
 | GTS - Junior FSE - Control Systems | bakerhughes | 2 Locations |  | 2026-11-27 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/US-TX-OTHER-TEXAS/GTS---Junior-FSE---Control-Systems_R172730) |
 | (USA) Pharmacy Pre-Grad Intern - WM | Walmart | (USA) FL TAMPA 04681 WM SUPERCENTER |  | 2026-11-27 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-TAMPA-04681-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2715841-5) |
 | Pharmacy Grad Intern (Hrly) | Walmart | (USA) VA EMPORIA 02805 WM SUPERCENTER |  | 2026-11-27 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VA-EMPORIA-02805-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2721270) |
@@ -70,7 +82,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | AI Graduate (On-Site) | CameraMatics | Austin, United States |  | 2026-11-26 | [Apply](https://cameramatics-1639649453.teamtailor.com/jobs/8799822-ai-graduate-on-site) |
 | Graduate Civil/Geotechnical Engineer | slrconsulting | 4 Locations |  | 2026-11-26 | [Apply](https://slrconsulting.wd103.myworkdayjobs.com/en-US/slrcareers/job/Denver-Colorado-USA/Graduate-Civil-Geotechnical-Engineer_JR102839) |
 | GTS - Junior FSE - Control Systems | bakerhughes | AR-NEUQUEN-BENU MUSA 1154 |  | 2026-11-26 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/AR-NEUQUEN-BENU-MUSA-1154/GTS---Junior-FSE---Control-Systems_R172960) |
-| (USA) Coach/Ops Mgr Trainee | Walmart | (USA) TN KNOXVILLE 02310 WM SUPERCENTER |  | 2026-11-26 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TN-KNOXVILLE-02310-WM-SUPERCENTER/XMLNAME--USA--Coach-Ops-Mgr-Trainee_R-2722490) |
 | Laboratory Technician, Jr | SGS | Point of Rocks, Wyoming, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/SGS/744000163921768) |
 | Instructional Designer Intern | lucidmotors | Amsterdam, NH |  | 2026-11-26 | [Apply](https://lucidmotors.com/careers/search/5306676007?gh_jid=5306676007) |
 | HEOR Intern | Intuitive | Sunnyvale, CA, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000163908429) |
@@ -103,6 +114,8 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | HP SalesEDGE Rotational Internship Job Description | HP | Rio Rancho, New Mexico, United States of America |  | 2026-11-26 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Rio-Rancho-New-Mexico-United-States-of-America/HP-SalesEDGE-Rotational-Internship-Job-Description_3169060) |
 | Pharmacy Intern - Grad | CVS Health | DE - Wilmington |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DE---Wilmington/Pharmacy-Intern---Grad_R1115196) |
 | Pharmacy Intern | CVS Health | DE - Claymont |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DE---Claymont/Pharmacy-Intern_R1115207) |
+| Management Trainee - Naperville | JC Licht | Naperville, IL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693436) |
+| IT Intern | Central Farm Service | Truman, MN |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4695051) |
 | Industrial Engineer Intern | Phoenix Manufacturing, Inc. | Phoenix, AZ |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693633) |
 | Graphic Designer - Intern | United States Bowling Congress | Arlington, TX, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/bowl/job/oYExkfwd) |
 | Sales Representative- Entry Level | Bisco Industries | Wallingford, CT, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/biscoindustries/job/oEf9Bfwn) |
@@ -132,6 +145,7 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | News Intern - Spring 2027 | Sinclair | Johnstown, PA, United States |  | 2026-11-25 | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17686) |
 | Weather Intern | Sinclair | Charleston, SC, United States |  | 2026-11-25 | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17614) |
 | Web Marketing Intern - Digital Experience Analytics | Texas Instruments | Dallas, TX, United States |  | 2026-11-25 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020507) |
+| 2027 Summer Internship - Frontline Marketing Intern | duetti | New York, NY |  | 2026-11-25 | [Apply](https://jobs.lever.co/duetti/aa8990f5-37e5-4ccf-bbfa-e18427c881b8) |
 | Environmental Scientist - Entry Level | Handex Consulting & Remediation | Jackson, NJ |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690090) |
 | Internship | Children's Hope Alliance | Statesville, NC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4287487) |
 | Systems Administrator Intern | Quality Vision International Inc. | Rochester, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694546) |
@@ -191,20 +205,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Nursing Assistant Trainee - FT - Days | Sanford Health | SD, Tyndall |  | 2026-11-25 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/SD-Tyndall/Nursing-Assistant-Trainee---FT---Days_R-0281263) |
 | Foundry Construction, Supply Chain and Sourcing Intern – Undergraduate | Intel | 5 Locations |  | 2026-11-25 | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Foundry-Construction--Supply-Chain-and-Sourcing-Intern---Undergraduate_JR0287912) |
 | 2027 MBA University Graduate - ACS Account Executive | Adobe | New York |  | 2026-11-25 | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/XMLNAME-2027-MBA-University-Graduate---ACS-Account-Executive_R173040) |
-| Clinical Lab Technician - Esoterix - Entry level, will train! | Labcorp | Calabasas Hills CA |  | 2026-11-25 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Calabasas-Hills-CA/Clinical-Lab-Technician---Esoterix---Entry-level--will-train-_2641211) |
-| Clinical Lab Technician - Sequenom - Entry level, will train! | Labcorp | San Diego CA |  | 2026-11-25 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Clinical-Lab-Technician---Sequenom---Entry-level--will-train-_2637770) |
-| Clinical Laboratory Technician - Sequenom - Entry Level Will Train! | Labcorp | San Diego CA |  | 2026-11-25 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Clinical-Laboratory-Technician---Sequenom---Entry-Level-Will-Train-_2636633) |
-| Software Engineer - Computing Platform (New Graduate) | XPENG | Santa Clara, CA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002) |
-| 2027 Summer Intern, PhD, Driver Understanding and Evaluation, Large Model Evalu... | Waymo | Mountain View, California, USA |  | 2026-11-25 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8415223) |
-| Energy Management Co-Op | VeoliaEnvironnementSA | Boston, MA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163751559) |
-| Energy Efficiency & Demand Response Internship - Summer 2027 | Wabash Valley Power Alliance | Indianapolis, IN, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000163744159) |
-| 2027 Summer Intern, 6G Cellular Standardization | samsungresearchamericainternship | 6105 Tennyson Pkwy, Suite 300, Plano TX 75024 |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8960746002) |
-| RTL Design Engineer Intern | sambanovasystems | Austin, Texas, United States; San Jose, California, United States |  | 2026-11-25 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271328004) |
-| Post-Silicon Validation Engineer Intern | sambanovasystems | Austin, Texas, United States; San Jose, California, United States |  | 2026-11-25 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004) |
-| Physical Design Engineer Intern | sambanovasystems | Austin, Texas, United States; San Jose, California, United States |  | 2026-11-25 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004) |
-| Customer Reliability Engineer (Entry level) | Smiths Group | Pasadena, TX, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000163724880) |
-| Sales Trainee | RedBull | Arlington Heights, IL, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163720652) |
-| Sales Trainee | RedBull | VAN NUYS, CA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163728079) |
 <!-- JOBS_TABLE_END -->
 
 <details>
