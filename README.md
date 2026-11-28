@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>27,575</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-28</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>27,901</h3><sub>open entry-level jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-28</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-28 00:18 UTC</sub>
+<sub>Snapshot 2026-11-28 04:19 UTC</sub>
 
 </div>
 
@@ -50,14 +50,18 @@ Looking for your first job or starting your career? This list is a fresh slice o
 
 ## Open jobs
 
-**27,575 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-28 00:18 UTC.** Apply links go to the employer's career page or hiring system.
+**27,901 open entry-level jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-28 04:19 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Entry-Level House Cleaner / Weekdays - $21.50 - $27/hr | Alpine Maids | Denver, CO |  | 2026-11-28 | [Apply](https://alpine-maids.breezy.hr/p/ab7add7bebdf-entry-level-house-cleaner-weekdays-21-50-27-hr) |
+| Entry Level Manager (09365) | Domino's | Austin, TX, US |  | 2026-11-28 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000164099374) |
+| Entry Level Manager (05494) | Domino's | Columbia, TN, US |  | 2026-11-28 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000164112842) |
 | Manager Trainee | towerloan | Poplar Bluff MO |  | 2026-11-28 | [Apply](https://towerloan.wd12.myworkdayjobs.com/en-US/tower_loan_careers/job/Poplar-Bluff-MO/Manager-Trainee_JR2457) |
 | Dental Assistant - Entry Level | aspendental | Gresham, Oregon |  | 2026-11-28 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Gresham-Oregon/Dental-Assistant---Entry-Level_R2026-014617) |
 | Shift Supervisor Trainee | CVS Health | AL - Hoover |  | 2026-11-28 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AL---Hoover/Shift-Supervisor-Trainee_R1115908-1) |
+| Electrical Designer (Junior/Intermediate) | Motor Coach Industries | Anniston, Alabama, US |  | 2026-11-27 | [Apply](https://apply.workable.com/j/8DD4FBD324) |
 | Entry Level Event Coordinator | AlphabeInsightInc | Atlanta, GA, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000164091779) |
 | Entry Level Marketing Coordinator | AlphabeInsightInc | Houston, TX, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000164091184) |
 | Entry Level Event Coordinator | AlphabeInsightInc | Las Vegas, NV, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000164092149) |
@@ -81,9 +85,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Manager Trainee | jbhunt | York, PA - Susquehanna |  | 2026-11-27 | [Apply](https://jbhunt.wd501.myworkdayjobs.com/en-US/careers/job/York-PA---Susquehanna/Manager-Trainee_00653856) |
 | Assistant Manager Trainee (7184 - Lower South Hill) | Domino's | Spokane, WA, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163956329) |
 | Business and Process Analyst (New or Recent Graduate Opportunity) - Immediate S... | bmo | Chicago, IL, USA |  | 2026-11-27 | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Chicago-IL-USA/Business-and-Process-Analyst--New-or-Recent-Graduate-Opportunity-----Immediate-Start-Date_R260031118) |
-| Editorial Intern (Adult) | ADP employer 8e27a2d8 | New York, NY, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8e27a2d8-9a25-4600-a40b-77eec5e6daaa&ccId=19000101_000001&jobId=609380&lang=en_US&source=CC2) |
-| Editorial Intern (Children's) | ADP employer 8e27a2d8 | New York, NY, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8e27a2d8-9a25-4600-a40b-77eec5e6daaa&ccId=19000101_000001&jobId=609384&lang=en_US&source=CC2) |
-| Social Media Intern (Comic Arts) | ADP employer 8e27a2d8 | New York, NY, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8e27a2d8-9a25-4600-a40b-77eec5e6daaa&ccId=19000101_000001&jobId=609388&lang=en_US&source=CC2) |
 | Environmental Science Intern | GHD | DALLAS, TX, United States |  | 2026-11-26 | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29579) |
 | AI Graduate (On-Site) | CameraMatics | Austin, United States |  | 2026-11-26 | [Apply](https://cameramatics-1639649453.teamtailor.com/jobs/8799822-ai-graduate-on-site) |
 | Graduate Civil/Geotechnical Engineer | slrconsulting | 4 Locations |  | 2026-11-26 | [Apply](https://slrconsulting.wd103.myworkdayjobs.com/en-US/slrcareers/job/Denver-Colorado-USA/Graduate-Civil-Geotechnical-Engineer_JR102839) |
@@ -108,8 +109,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Grad Intern - Global Medical Affairs Thoracic Oncology (Summer 2027) | amgen | United States - Remote |  | 2026-11-26 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Global-Medical-Affairs-Thoracic-Oncology--Summer-2027-_R-261965) |
 | Insomniac Events - Paid Spring Music Group A&R Intern | livenation | Calabasas, CA, USA |  | 2026-11-26 | [Apply](https://livenation.wd503.myworkdayjobs.com/en-US/lnexternalsite/job/Calabasas-CA-USA/Insomniac-Events---Paid-Spring-Music-Group-A-R-Intern_JR-94557-3) |
 | Pharmacy Intern - Grad | CVS Health | DC - Washington |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DC---Washington/Pharmacy-Intern---Grad_R1115407) |
-| Entry Level Manager (06158) | Domino's | Portland, TN, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163780829) |
-| Entry Level Manager (06329) | Domino's | Chapel Hill, TN, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163784307) |
 | Software Engineer, Core Systems (New Grad, 2027) | Scout AI | Sunnyvale, CA | $135k-190k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897) |
 | AI Engineer, AI/ML and Agent Harnessing (New Grad, 2027) | Scout AI | Sunnyvale, CA | $135k-190k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed) |
 | Marketing Intern, North America (B2B Events & Growth) | meshy | Bay Area Office |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/meshy/0b471661-131a-4a91-9ae0-5a99bef62591) |
@@ -119,9 +118,8 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Project Specialist I (Intern) - United States | cisco | RTP, North Carolina, US |  | 2026-11-26 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Project-Specialist-I--Intern----United-States_2029711-1) |
 | HP SalesEDGE Rotational Internship Job Description | HP | Rio Rancho, New Mexico, United States of America |  | 2026-11-26 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Rio-Rancho-New-Mexico-United-States-of-America/HP-SalesEDGE-Rotational-Internship-Job-Description_3169060) |
 | Pharmacy Intern - Grad | CVS Health | DE - Wilmington |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DE---Wilmington/Pharmacy-Intern---Grad_R1115196) |
+| Entry-Level Warehouse | Iowa 80 | Walcott, IA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693114) |
 | Apprentice, Analog Press - OnCall | Join the Imagine team! | Burbank, CA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4695126) |
-| Full-Time Community Re-Entry Specialist (PM Shift) | Red River Sanitors | Columbus, OH, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9372d686-a1f4-49ef-94e4-4c274b6e7d94&ccId=19000101_000001&jobId=556020&lang=en_US&source=CC2) |
-| Pharmacy Technician: Rx Data Entry / Mon - Fri / 11:30 AM - 8 PM | DeliverCareRx | Mount Prospect Location , Mount Prospect, IL, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=89423d84-5c1b-46b0-94e8-2ed784c53478&ccId=19000101_000001&jobId=587912&lang=en_US&source=CC2) |
 | Management Trainee - Naperville | JC Licht | Naperville, IL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693436) |
 | IT Intern | Central Farm Service | Truman, MN |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4695051) |
 | Industrial Engineer Intern | Phoenix Manufacturing, Inc. | Phoenix, AZ |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693633) |
@@ -156,6 +154,9 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Environmental Scientist - Entry Level | Handex Consulting & Remediation | Jackson, NJ |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690090) |
 | Internship | Children's Hope Alliance | Statesville, NC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4287487) |
 | Systems Administrator Intern | Quality Vision International Inc. | Rochester, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694546) |
+| Software Engineering Summer Intern | Best Egg | Wilmington, DE |  | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392) |
+| Recovery Operations & Project Coordination Summer Intern | Best Egg | Wilmington, DE | $24/hr | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/4fed5e43-6d54-474d-8786-f1030937c58e) |
+| Controls Summer Internship | Best Egg | Wilmington, DE | $24/hr | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/553c146f-2954-40aa-aabe-c8c8befe90d0) |
 | Product Marketing MBA Intern (Contract) | heygen | Los Angeles, San Francisco |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/heygen/jobs/5309913007) |
 | Junior Copywriter | veterinaryemergencygroupst | VEG Headquarters, White Plains, NY |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6264656004?gh_jid=6264656004) |
 | Quality Intern | VeoliaEnvironnementSA | Minnetonka, MN, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163761609) |
@@ -177,8 +178,6 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Software Engineer - Intern | CodeRabbit | San Francisco | $50-55/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9) |
 | Software Engineer - New Grad | CodeRabbit | San Francisco | $170k-185k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51) |
 | Store Manager Trainee | Farmers Home Furniture | NEW TAZEWELL, TN |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689529) |
-| 2027 Summer Accounting Internship | Meadows Urquhart | Richmond, Virginia, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/1A74C5E6F4) |
-| Entry Level Packaging Technician | King City Gardens | Wilmington, Ohio, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/07E94BB08B) |
 | Public Relations Intern | wwecorp | Las Vegas, NV - UFC Headquarters |  | 2026-11-25 | [Apply](https://wwecorp.wd5.myworkdayjobs.com/en-US/ufc/job/Las-Vegas-NV---UFC-Headquarters/Public-Relations-Intern_R0008945) |
 | PREMIER IT Network Operation Center Internship | firstpremier | Sioux Falls, SD |  | 2026-11-25 | [Apply](https://firstpremier.wd503.myworkdayjobs.com/en-US/premier_careers/job/Sioux-Falls-SD/PREMIER-IT-Network-Operation-Center-Internship_R-550-1) |
 | Junior DevSecOps Administrator | radiancetech | Huntsville, AL |  | 2026-11-25 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Huntsville-AL/Junior-DevSecOps-Administrator_HR102598) |
@@ -205,6 +204,7 @@ Looking for your first job or starting your career? This list is a fresh slice o
 | Summer Internship - Field Service / Customer Support | ag | Herndon Area, VA |  | 2026-11-25 | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Herndon-Area-VA/Summer-Internship---Field-Service---Customer-Support_JR10452454) |
 | University - Defense Strategy Intern | bah | 2 Locations |  | 2026-11-25 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/University---Defense-Strategy-Intern_R0254269) |
 | Data Scientist, Junior | bah | San Diego, CA |  | 2026-11-25 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/Data-Scientist--Junior_R0251120) |
+| Environmental Health & Safety Intern Summer 2027 | basspro | Springfield, MO (Bass Pro Shops Base Camp) |  | 2026-11-25 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Environmental-Health---Safety-Intern-Summer-2027_R273430) |
 <!-- JOBS_TABLE_END -->
 
 <details>
